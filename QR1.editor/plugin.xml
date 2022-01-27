@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.0"?>
+
+<!--
+-->
+
+<plugin>
+
+   <extension point="org.eclipse.ui.newWizards">
+      <!-- @generated qR1 -->
+      <category
+            id="org.eclipse.emf.ecore.Wizard.category.ID"
+            name="%_UI_Wizard_category"/>
+      <wizard
+            id="qR1.presentation.QR1ModelWizardID"
+            name="%_UI_QR1ModelWizard_label"
+            class="qR1.presentation.QR1ModelWizard"
+            category="org.eclipse.emf.ecore.Wizard.category.ID"
+            icon="icons/full/obj16/QR1ModelFile.gif">
+         <description>%_UI_QR1ModelWizard_description</description>
+         <selection class="org.eclipse.core.resources.IResource"/>
+      </wizard>
+   </extension>
+
+   <extension point="org.eclipse.ui.editors">
+      <!-- @generated qR1 -->
+      <editor
+            id="qR1.presentation.QR1EditorID"
+            name="%_UI_QR1Editor_label"
+            icon="icons/full/obj16/QR1ModelFile.gif"
+            extensions="qr1"
+            class="qR1.presentation.QR1Editor"
+            contributorClass="qR1.presentation.QR1ActionBarContributor">
+      </editor>
+   </extension>
+
+</plugin>
