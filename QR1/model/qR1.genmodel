@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<genmodel:GenModel xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:genmodel="http://www.eclipse.org/emf/2002/GenModel"
+    modelDirectory="/QR1/src-gen" creationIcons="false" editDirectory="/QR1.edit/src-gen"
+    editorDirectory="/QR1.editor/src-gen" modelPluginID="QR1" modelName="QR1" rootExtendsClass="org.eclipse.emf.ecore.impl.MinimalEObjectImpl$Container"
+    codeFormatting="true" importerID="org.eclipse.emf.importer.ecore" complianceLevel="8.0"
+    copyrightFields="false" operationReflection="true" importOrganizing="true">
+  <foreignModel>qR1.ecore</foreignModel>
+  <testsDirectory xsi:nil="true"/>
+  <genPackages prefix="QR1" disposableProviderFactory="true" ecorePackage="qR1.ecore#/">
+    <genClasses ecoreClass="qR1.ecore#//QR">
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference qR1.ecore#//QR/hashcode"/>
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference qR1.ecore#//QR/signature"/>
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference qR1.ecore#//QR/encryptedqr"/>
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference qR1.ecore#//QR/decryptedqr"/>
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference qR1.ecore#//QR/comparison"/>
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference qR1.ecore#//QR/algorithm"/>
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference qR1.ecore#//QR/certificate"/>
+    </genClasses>
+    <genClasses ecoreClass="qR1.ecore#//DateData">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute qR1.ecore#//DateData/originalData"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute qR1.ecore#//DateData/validDate"/>
+      <genOperations ecoreOperation="qR1.ecore#//DateData/hashing"/>
+    </genClasses>
+    <genClasses ecoreClass="qR1.ecore#//EncryptedQR">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute qR1.ecore#//EncryptedQR/encryptedData"/>
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference qR1.ecore#//EncryptedQR/certificate"/>
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference qR1.ecore#//EncryptedQR/algorithm"/>
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference qR1.ecore#//EncryptedQR/signature"/>
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference qR1.ecore#//EncryptedQR/datedata"/>
+      <genOperations ecoreOperation="qR1.ecore#//EncryptedQR/multiplexing"/>
+      <genOperations ecoreOperation="qR1.ecore#//EncryptedQR/multilayering"/>
+    </genClasses>
+    <genClasses ecoreClass="qR1.ecore#//DecryptedQR">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute qR1.ecore#//DecryptedQR/decyptedQR"/>
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference qR1.ecore#//DecryptedQR/encryptedqr"/>
+      <genOperations ecoreOperation="qR1.ecore#//DecryptedQR/decoding"/>
+    </genClasses>
+    <genClasses ecoreClass="qR1.ecore#//Algorithm">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute qR1.ecore#//Algorithm/hashingAlgo"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute qR1.ecore#//Algorithm/hashCode"/>
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference qR1.ecore#//Algorithm/decryptedqr"/>
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference qR1.ecore#//Algorithm/comparison"/>
+      <genOperations ecoreOperation="qR1.ecore#//Algorithm/Hashing"/>
+    </genClasses>
+    <genClasses ecoreClass="qR1.ecore#//Signature">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute qR1.ecore#//Signature/privateKey"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute qR1.ecore#//Signature/encryptedData"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute qR1.ecore#//Signature/decyptedData"/>
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference qR1.ecore#//Signature/hashcode"/>
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference qR1.ecore#//Signature/decryptedqr"/>
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference qR1.ecore#//Signature/comparison"/>
+      <genOperations ecoreOperation="qR1.ecore#//Signature/encryption"/>
+      <genOperations ecoreOperation="qR1.ecore#//Signature/decyption"/>
+    </genClasses>
+    <genClasses ecoreClass="qR1.ecore#//Certificate">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute qR1.ecore#//Certificate/senderID"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute qR1.ecore#//Certificate/publicKey"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute qR1.ecore#//Certificate/validDate"/>
+    </genClasses>
+    <genClasses ecoreClass="qR1.ecore#//Comparison">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute qR1.ecore#//Comparison/hashCode"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute qR1.ecore#//Comparison/decryptedData"/>
+      <genOperations ecoreOperation="qR1.ecore#//Comparison/comparison"/>
+    </genClasses>
+  </genPackages>
+</genmodel:GenModel>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ecore:EPackage [
+<!ENTITY _0 "http://www.eclipse.org/emf/2002/Ecore">
+]>
+<ecore:EPackage xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" name="qR1" nsURI="http://www.example.org/qR1" nsPrefix="qR1">
+  <eAnnotations source="http://www.eclipse.org/OCL/Import">
+    <details key="ecore" value="http://www.eclipse.org/emf/2002/Ecore"/>
+  </eAnnotations>
+  <eClassifiers xsi:type="ecore:EClass" name="QR">
+    <eStructuralFeatures xsi:type="ecore:EReference" name="hashcode" upperBound="-1"
+        eType="#//DateData" containment="true"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="signature" upperBound="-1"
+        eType="#//Signature" containment="true"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="encryptedqr" upperBound="-1"
+        eType="#//EncryptedQR" containment="true"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="decryptedqr" upperBound="-1"
+        eType="#//DecryptedQR" containment="true"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="comparison" upperBound="-1"
+        eType="#//Comparison" containment="true"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="algorithm" upperBound="-1"
+        eType="#//Algorithm" containment="true"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="certificate" upperBound="-1"
+        eType="#//Certificate" containment="true"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="DateData">
+    <eOperations name="hashing"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="originalData" eType="ecore:EDataType &_0;#//EString"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="validDate" eType="ecore:EDataType &_0;#//EDate"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="EncryptedQR">
+    <eOperations name="multiplexing"/>
+    <eOperations name="multilayering"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="encryptedData" eType="ecore:EDataType &_0;#//EString"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="certificate" lowerBound="1"
+        eType="#//Certificate"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="algorithm" lowerBound="1"
+        eType="#//Algorithm"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="signature" lowerBound="1"
+        eType="#//Signature"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="datedata" lowerBound="1"
+        eType="#//DateData"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="DecryptedQR">
+    <eOperations name="decoding"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="decyptedQR" eType="ecore:EDataType &_0;#//EString"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="encryptedqr" lowerBound="1"
+        eType="#//EncryptedQR"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="Algorithm">
+    <eOperations name="Hashing"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="hashingAlgo" eType="ecore:EDataType &_0;#//EString"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="hashCode" eType="ecore:EDataType &_0;#//EString"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="decryptedqr" lowerBound="1"
+        eType="#//DecryptedQR"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="comparison" lowerBound="1"
+        eType="#//Comparison"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="Signature">
+    <eOperations name="encryption"/>
+    <eOperations name="decyption"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="privateKey" eType="ecore:EDataType &_0;#//EString"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="encryptedData" eType="ecore:EDataType &_0;#//EString"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="decyptedData" eType="ecore:EDataType &_0;#//EString"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="hashcode" lowerBound="1"
+        eType="#//DateData"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="decryptedqr" lowerBound="1"
+        eType="#//DecryptedQR"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="comparison" lowerBound="1"
+        eType="#//Comparison"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="Certificate">
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="senderID" eType="ecore:EDataType &_0;#//EString"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="publicKey" eType="ecore:EDataType &_0;#//EString"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="validDate" eType="ecore:EDataType &_0;#//EString"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="Comparison">
+    <eOperations name="comparison"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="hashCode" eType="ecore:EDataType &_0;#//EString"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="decryptedData" eType="ecore:EDataType &_0;#//EString"/>
+  </eClassifiers>
+</ecore:EPackage>
