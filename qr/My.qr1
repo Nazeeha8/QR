@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<qR1:QR xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:qR1="http://www.example.org/qR1">
+  <hashcode/>
+  <signature hashcode="//@hashcode.0"/>
+  <encryptedqr encryptedData="100101" certificate="//@certificate.0" algorithm="//@algorithm.0" signature="//@signature.0" datedata="//@hashcode.0"/>
+  <algorithm/>
+  <certificate/>
+</qR1:QR>

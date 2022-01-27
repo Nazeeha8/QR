@@ -1,0 +1,1768 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:description="http://www.eclipse.org/sirius/description/1.1.0" xmlns:description_1="http://www.eclipse.org/sirius/diagram/description/1.1.0" xmlns:diagram="http://www.eclipse.org/sirius/diagram/1.1.0" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.3/notation" xmlns:qR1="http://www.example.org/qR1" xmlns:style="http://www.eclipse.org/sirius/diagram/description/style/1.1.0" xmlns:viewpoint="http://www.eclipse.org/sirius/1.1.0" xsi:schemaLocation="http://www.eclipse.org/sirius/description/1.1.0 http://www.eclipse.org/sirius/1.1.0#//description http://www.eclipse.org/sirius/diagram/description/1.1.0 http://www.eclipse.org/sirius/diagram/1.1.0#//description http://www.eclipse.org/sirius/diagram/description/style/1.1.0 http://www.eclipse.org/sirius/diagram/1.1.0#//description/style">
+  <viewpoint:DAnalysis uid="_BbxjsGM9EeyMydco3fgwJA" selectedViews="_GF5-QGNCEeyHZPIunCMoCQ" version="14.3.1.202003261200">
+    <semanticResources>My.qr1</semanticResources>
+    <ownedViews xmi:type="viewpoint:DView" uid="_GF5-QGNCEeyHZPIunCMoCQ">
+      <viewpoint xmi:type="description:Viewpoint" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']"/>
+      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_GddioGNCEeyHZPIunCMoCQ" name="new QR" repPath="#_Gc0CYGNCEeyHZPIunCMoCQ" changeId="1c3b7664-7fae-4f48-85e8-63177aca16ce">
+        <description xmi:type="description_1:DiagramDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']"/>
+        <target xmi:type="qR1:QR" href="My.qr1#/"/>
+      </ownedRepresentationDescriptors>
+      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_UpOdwGNCEeyHZPIunCMoCQ" name="new QR" repPath="#_UpKzYGNCEeyHZPIunCMoCQ" changeId="a637a290-ffc6-4861-8d90-22876c2cac8e">
+        <description xmi:type="description_1:DiagramDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']"/>
+        <target xmi:type="qR1:QR" href="My.qr1#/"/>
+      </ownedRepresentationDescriptors>
+      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_ew1_0GO3Eeyg0cIvkBlpmA" name="new QR" repPath="#_ewxHUGO3Eeyg0cIvkBlpmA" changeId="daaf6b01-dff1-4c1d-abd6-fb308bdea160">
+        <description xmi:type="description_1:DiagramDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']"/>
+        <target xmi:type="qR1:QR" href="My.qr1#/"/>
+      </ownedRepresentationDescriptors>
+      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_EfjAIHN3EeyTQtb_XaAbrw" name="new QR" repPath="#_EfadQHN3EeyTQtb_XaAbrw" changeId="69a00b24-6959-455b-aebb-c8f5402edd84">
+        <description xmi:type="description_1:DiagramDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']"/>
+        <target xmi:type="qR1:QR" href="My.qr1#/"/>
+      </ownedRepresentationDescriptors>
+      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_5__ZcHxoEeyKcJS45NchOg" name="gg QR" repPath="#_5_2PgHxoEeyKcJS45NchOg" changeId="3e53fed3-ae4f-415f-b6d2-dd0a719eac41">
+        <description xmi:type="description_1:DiagramDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']"/>
+        <target xmi:type="qR1:QR" href="My.qr1#/"/>
+      </ownedRepresentationDescriptors>
+      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_2ez8QXxpEeyKcJS45NchOg" name="CS QR" repPath="#_2ed-AHxpEeyKcJS45NchOg" changeId="41d94bdd-d1d6-4686-ab98-fe3b995c69d0">
+        <description xmi:type="description_1:DiagramDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']"/>
+        <target xmi:type="qR1:QR" href="My.qr1#/"/>
+      </ownedRepresentationDescriptors>
+    </ownedViews>
+  </viewpoint:DAnalysis>
+  <diagram:DSemanticDiagram uid="_Gc0CYGNCEeyHZPIunCMoCQ">
+    <ownedAnnotationEntries xmi:type="description:AnnotationEntry" uid="_Ge_MoGNCEeyHZPIunCMoCQ" source="GMF_DIAGRAMS">
+      <data xmi:type="notation:Diagram" xmi:id="_Ge_zsGNCEeyHZPIunCMoCQ" type="Sirius" element="_Gc0CYGNCEeyHZPIunCMoCQ" measurementUnit="Pixel">
+        <children xmi:type="notation:Node" xmi:id="_LT9AcHOpEeyTQtb_XaAbrw" type="2001" element="_LT5WEHOpEeyTQtb_XaAbrw">
+          <children xmi:type="notation:Node" xmi:id="_LT9Ac3OpEeyTQtb_XaAbrw" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_LT9AdHOpEeyTQtb_XaAbrw" x="41" y="9"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_LT9ngHOpEeyTQtb_XaAbrw" type="3005" element="_LT5WEXOpEeyTQtb_XaAbrw">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_LT9ngXOpEeyTQtb_XaAbrw" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_LT9ngnOpEeyTQtb_XaAbrw"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_LT9AcXOpEeyTQtb_XaAbrw" fontName="Segoe UI" fontHeight="12"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_LT9AcnOpEeyTQtb_XaAbrw" x="300" y="40" width="40" height="40"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_L9vkUHOpEeyTQtb_XaAbrw" type="2001" element="_L9qEwHOpEeyTQtb_XaAbrw">
+          <children xmi:type="notation:Node" xmi:id="_L9wLYHOpEeyTQtb_XaAbrw" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_L9wLYXOpEeyTQtb_XaAbrw" x="-7" y="-22"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_L9wycHOpEeyTQtb_XaAbrw" type="3005" element="_L9qr0HOpEeyTQtb_XaAbrw">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_L9wycXOpEeyTQtb_XaAbrw" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_L9wycnOpEeyTQtb_XaAbrw"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_L9vkUXOpEeyTQtb_XaAbrw" fontName="Segoe UI" fontHeight="12"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_L9vkUnOpEeyTQtb_XaAbrw" x="306" y="125" width="40" height="40"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_ibnfkHOpEeyTQtb_XaAbrw" type="2001" element="_ibinEHOpEeyTQtb_XaAbrw">
+          <children xmi:type="notation:Node" xmi:id="_iboGoHOpEeyTQtb_XaAbrw" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_iboGoXOpEeyTQtb_XaAbrw" y="-22"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_iboGonOpEeyTQtb_XaAbrw" type="3005" element="_ibinEXOpEeyTQtb_XaAbrw">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_iboGo3OpEeyTQtb_XaAbrw" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iboGpHOpEeyTQtb_XaAbrw"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_ibnfkXOpEeyTQtb_XaAbrw" fontName="Segoe UI" fontHeight="12"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ibnfknOpEeyTQtb_XaAbrw" x="90" y="225" width="40" height="40"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_Ei4f0HOqEeyTQtb_XaAbrw" type="2001" element="_EizAQHOqEeyTQtb_XaAbrw">
+          <children xmi:type="notation:Node" xmi:id="_Ei4f03OqEeyTQtb_XaAbrw" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_Ei4f1HOqEeyTQtb_XaAbrw" x="-4" y="-22"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_Ei5G4HOqEeyTQtb_XaAbrw" type="3005" element="_EizAQXOqEeyTQtb_XaAbrw">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_Ei5G4XOqEeyTQtb_XaAbrw" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Ei5G4nOqEeyTQtb_XaAbrw"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_Ei4f0XOqEeyTQtb_XaAbrw" fontName="Segoe UI" fontHeight="12"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Ei4f0nOqEeyTQtb_XaAbrw" x="505" y="250" width="40" height="40"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_IDBlwHOqEeyTQtb_XaAbrw" type="2001" element="_IC6RAHOqEeyTQtb_XaAbrw">
+          <children xmi:type="notation:Node" xmi:id="_IDBlw3OqEeyTQtb_XaAbrw" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_IDBlxHOqEeyTQtb_XaAbrw" x="-13" y="40"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_IDCM0HOqEeyTQtb_XaAbrw" type="3005" element="_IC6RAXOqEeyTQtb_XaAbrw">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_IDCM0XOqEeyTQtb_XaAbrw" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_IDCM0nOqEeyTQtb_XaAbrw"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_IDBlwXOqEeyTQtb_XaAbrw" fontName="Segoe UI" fontHeight="12"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_IDBlwnOqEeyTQtb_XaAbrw" x="300" y="340" width="51" height="49"/>
+        </children>
+        <styles xmi:type="notation:DiagramStyle" xmi:id="_Ge_zsWNCEeyHZPIunCMoCQ"/>
+        <edges xmi:type="notation:Edge" xmi:id="_r6o-wHOpEeyTQtb_XaAbrw" type="4001" element="_r6jfMHOpEeyTQtb_XaAbrw" source="_L9vkUHOpEeyTQtb_XaAbrw" target="_LT9AcHOpEeyTQtb_XaAbrw">
+          <children xmi:type="notation:Node" xmi:id="_r6o-xHOpEeyTQtb_XaAbrw" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_r6o-xXOpEeyTQtb_XaAbrw" x="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_r6o-xnOpEeyTQtb_XaAbrw" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_r6o-x3OpEeyTQtb_XaAbrw" x="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_r6o-yHOpEeyTQtb_XaAbrw" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_r6o-yXOpEeyTQtb_XaAbrw" x="-10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_r6o-wXOpEeyTQtb_XaAbrw"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_r6o-wnOpEeyTQtb_XaAbrw" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_r6o-w3OpEeyTQtb_XaAbrw" points="[-6, 0, 20, 76]$[-6, -22, 20, 54]$[-6, -45, 20, 31]$[-6, -51, 20, 25]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_r6o-ynOpEeyTQtb_XaAbrw" id="(0.5,0.0)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_r6pl0HOpEeyTQtb_XaAbrw" id="(0.0,0.225)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="__4EWgHOpEeyTQtb_XaAbrw" type="4001" element="__4AsIHOpEeyTQtb_XaAbrw" source="_ibnfkHOpEeyTQtb_XaAbrw" target="_L9vkUHOpEeyTQtb_XaAbrw">
+          <children xmi:type="notation:Node" xmi:id="__4EWhHOpEeyTQtb_XaAbrw" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="__4EWhXOpEeyTQtb_XaAbrw" x="4" y="-9"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="__4EWhnOpEeyTQtb_XaAbrw" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="__4EWh3OpEeyTQtb_XaAbrw" x="-4" y="9"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="__4EWiHOpEeyTQtb_XaAbrw" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="__4EWiXOpEeyTQtb_XaAbrw" x="-4" y="9"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="__4EWgXOpEeyTQtb_XaAbrw"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="__4EWgnOpEeyTQtb_XaAbrw" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="__4EWg3OpEeyTQtb_XaAbrw" points="[26, 2, -230, 97]$[216, -79, -40, 16]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="__4E9kHOpEeyTQtb_XaAbrw" id="(0.0,0.25)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="__4E9kXOpEeyTQtb_XaAbrw" id="(1.0,0.375)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_F0t7IHOqEeyTQtb_XaAbrw" type="4001" element="_F0nNcHOqEeyTQtb_XaAbrw" source="_Ei4f0HOqEeyTQtb_XaAbrw" target="_L9vkUHOpEeyTQtb_XaAbrw">
+          <children xmi:type="notation:Node" xmi:id="_F0t7JHOqEeyTQtb_XaAbrw" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_F0t7JXOqEeyTQtb_XaAbrw" x="5" y="8"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_F0uiMHOqEeyTQtb_XaAbrw" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_F0uiMXOqEeyTQtb_XaAbrw" x="-5" y="-8"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_F0uiMnOqEeyTQtb_XaAbrw" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_F0uiM3OqEeyTQtb_XaAbrw" x="-5" y="-8"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_F0t7IXOqEeyTQtb_XaAbrw"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_F0t7InOqEeyTQtb_XaAbrw" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_F0t7I3OqEeyTQtb_XaAbrw" points="[0, 7, 180, 122]$[-189, -115, -9, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_F0uiNHOqEeyTQtb_XaAbrw" id="(0.525,0.0)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_F0uiNXOqEeyTQtb_XaAbrw" id="(1.0,0.25)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_LZBRNHOqEeyTQtb_XaAbrw" type="4001" element="_LY8_wHOqEeyTQtb_XaAbrw" source="_ibnfkHOpEeyTQtb_XaAbrw" target="_IDBlwHOqEeyTQtb_XaAbrw">
+          <children xmi:type="notation:Node" xmi:id="_LZB4QnOqEeyTQtb_XaAbrw" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_LZB4Q3OqEeyTQtb_XaAbrw" x="-6" y="-9"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_LZB4RHOqEeyTQtb_XaAbrw" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_LZB4RXOqEeyTQtb_XaAbrw" x="1" y="9"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_LZB4RnOqEeyTQtb_XaAbrw" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_LZB4R3OqEeyTQtb_XaAbrw" x="3" y="9"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_LZBRNXOqEeyTQtb_XaAbrw"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_LZB4QHOqEeyTQtb_XaAbrw" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_LZB4QXOqEeyTQtb_XaAbrw" points="[0, 0, -170, -116]$[170, 116, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_LZB4SHOqEeyTQtb_XaAbrw" id="(1.0,0.475)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_LZB4SXOqEeyTQtb_XaAbrw" id="(0.0,0.40816326530612246)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_Ms8XMHOqEeyTQtb_XaAbrw" type="4001" element="_MszNQHOqEeyTQtb_XaAbrw" source="_Ei4f0HOqEeyTQtb_XaAbrw" target="_IDBlwHOqEeyTQtb_XaAbrw">
+          <children xmi:type="notation:Node" xmi:id="_Ms8XNHOqEeyTQtb_XaAbrw" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Ms8XNXOqEeyTQtb_XaAbrw" x="-7" y="-5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_Ms8XNnOqEeyTQtb_XaAbrw" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Ms8XN3OqEeyTQtb_XaAbrw" x="11" y="8"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_Ms8XOHOqEeyTQtb_XaAbrw" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Ms8XOXOqEeyTQtb_XaAbrw" x="10" y="8"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_Ms8XMXOqEeyTQtb_XaAbrw"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_Ms8XMnOqEeyTQtb_XaAbrw" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_Ms8XM3OqEeyTQtb_XaAbrw" points="[0, 0, 195, -50]$[-195, 50, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Ms8-QHOqEeyTQtb_XaAbrw" id="(0.375,1.0)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Ms8-QXOqEeyTQtb_XaAbrw" id="(0.49019607843137253,0.0)"/>
+        </edges>
+      </data>
+    </ownedAnnotationEntries>
+    <ownedAnnotationEntries xmi:type="description:AnnotationEntry" uid="_Gf5yoGNCEeyHZPIunCMoCQ" source="DANNOTATION_CUSTOMIZATION_KEY">
+      <data xmi:type="diagram:ComputedStyleDescriptionRegistry" uid="_Gf6ZsGNCEeyHZPIunCMoCQ"/>
+    </ownedAnnotationEntries>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_LT5WEHOpEeyTQtb_XaAbrw" name="10001011" incomingEdges="_r6jfMHOpEeyTQtb_XaAbrw" width="4" height="4" resizeKind="NSEW">
+      <target xmi:type="qR1:EncryptedQR" href="My.qr1#//@encryptedqr.0"/>
+      <semanticElements xmi:type="qR1:EncryptedQR" href="My.qr1#//@encryptedqr.0"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_LT5WEXOpEeyTQtb_XaAbrw" labelSize="12" showIcon="false" workspacePath="/qr.design/icons/EncryptedQR.png">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='EncryptedQR']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='EncryptedQR']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_L9qEwHOpEeyTQtb_XaAbrw" name="MDCAS" outgoingEdges="_r6jfMHOpEeyTQtb_XaAbrw" incomingEdges="__4AsIHOpEeyTQtb_XaAbrw _F0nNcHOqEeyTQtb_XaAbrw" width="4" height="4" resizeKind="NSEW">
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_L9qr0HOpEeyTQtb_XaAbrw" labelSize="12" showIcon="false" workspacePath="/qr.design/icons/DecryptedQR.png">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='DecryptedQR']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='DecryptedQR']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_ibinEHOpEeyTQtb_XaAbrw" name="MD5" outgoingEdges="__4AsIHOpEeyTQtb_XaAbrw _LY8_wHOqEeyTQtb_XaAbrw" width="4" height="4" resizeKind="NSEW">
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_ibinEXOpEeyTQtb_XaAbrw" labelSize="12" showIcon="false" workspacePath="/qr.design/icons/Algorithm.png">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='Algorithm']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='Algorithm']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_r6jfMHOpEeyTQtb_XaAbrw" sourceNode="_L9qEwHOpEeyTQtb_XaAbrw" targetNode="_LT5WEHOpEeyTQtb_XaAbrw">
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_r6jfMXOpEeyTQtb_XaAbrw" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='DecryptedQR-encryptedqr']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_r6jfMnOpEeyTQtb_XaAbrw" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='DecryptedQR-encryptedqr']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="__4AsIHOpEeyTQtb_XaAbrw" sourceNode="_ibinEHOpEeyTQtb_XaAbrw" targetNode="_L9qEwHOpEeyTQtb_XaAbrw">
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="__4AsIXOpEeyTQtb_XaAbrw" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='Algorithm-decryptedQR']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="__4AsInOpEeyTQtb_XaAbrw" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='Algorithm-decryptedQR']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_EizAQHOqEeyTQtb_XaAbrw" name="*124/9" outgoingEdges="_F0nNcHOqEeyTQtb_XaAbrw _MszNQHOqEeyTQtb_XaAbrw" width="4" height="4" resizeKind="NSEW">
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_EizAQXOqEeyTQtb_XaAbrw" labelSize="12" showIcon="false" workspacePath="/qr.design/icons/Signature.png">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='Signature']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='Signature']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_F0nNcHOqEeyTQtb_XaAbrw" sourceNode="_EizAQHOqEeyTQtb_XaAbrw" targetNode="_L9qEwHOpEeyTQtb_XaAbrw">
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_F0nNcXOqEeyTQtb_XaAbrw" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='Signature-decryptedQR']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_F0nNcnOqEeyTQtb_XaAbrw" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='Signature-decryptedQR']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_IC6RAHOqEeyTQtb_XaAbrw" name="124" incomingEdges="_LY8_wHOqEeyTQtb_XaAbrw _MszNQHOqEeyTQtb_XaAbrw" width="0" height="0" resizeKind="NSEW">
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_IC6RAXOqEeyTQtb_XaAbrw" labelSize="12" showIcon="false" workspacePath="/qr.design/icons/Comparison.png">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='Comparison']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='Comparison']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_LY8_wHOqEeyTQtb_XaAbrw" sourceNode="_ibinEHOpEeyTQtb_XaAbrw" targetNode="_IC6RAHOqEeyTQtb_XaAbrw">
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_LY8_wXOqEeyTQtb_XaAbrw" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='Algorithm-comparison']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_LY8_wnOqEeyTQtb_XaAbrw" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='Algorithm-comparison']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_MszNQHOqEeyTQtb_XaAbrw" sourceNode="_EizAQHOqEeyTQtb_XaAbrw" targetNode="_IC6RAHOqEeyTQtb_XaAbrw">
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_MszNQXOqEeyTQtb_XaAbrw" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='Signature-comparison']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_MszNQnOqEeyTQtb_XaAbrw" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='Signature-comparison']"/>
+    </ownedDiagramElements>
+    <description xmi:type="description_1:DiagramDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']"/>
+    <filterVariableHistory xmi:type="diagram:FilterVariableHistory" uid="_GdCE0GNCEeyHZPIunCMoCQ"/>
+    <activatedLayers xmi:type="description_1:Layer" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer"/>
+    <target xmi:type="qR1:QR" href="My.qr1#/"/>
+  </diagram:DSemanticDiagram>
+  <diagram:DSemanticDiagram uid="_UpKzYGNCEeyHZPIunCMoCQ">
+    <ownedAnnotationEntries xmi:type="description:AnnotationEntry" uid="_UpgKkGNCEeyHZPIunCMoCQ" source="GMF_DIAGRAMS">
+      <data xmi:type="notation:Diagram" xmi:id="_UpgKkWNCEeyHZPIunCMoCQ" type="Sirius" element="_UpKzYGNCEeyHZPIunCMoCQ" measurementUnit="Pixel">
+        <children xmi:type="notation:Node" xmi:id="_Up82gGNCEeyHZPIunCMoCQ" type="2001" element="_UppUgGNCEeyHZPIunCMoCQ">
+          <children xmi:type="notation:Node" xmi:id="_Up-EoGNCEeyHZPIunCMoCQ" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_Up-EoWNCEeyHZPIunCMoCQ" x="41" y="9"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_UqKR4GNCEeyHZPIunCMoCQ" type="3005" element="_UppUgWNCEeyHZPIunCMoCQ">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_UqKR4WNCEeyHZPIunCMoCQ" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UqKR4mNCEeyHZPIunCMoCQ"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_Up82gWNCEeyHZPIunCMoCQ" fontName="Segoe UI" fontHeight="12"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Up82gmNCEeyHZPIunCMoCQ" x="705" y="45" width="40" height="40"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_UqC9IGNCEeyHZPIunCMoCQ" type="2001" element="_UpqioGNCEeyHZPIunCMoCQ">
+          <children xmi:type="notation:Node" xmi:id="_UqDkMGNCEeyHZPIunCMoCQ" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_UqDkMWNCEeyHZPIunCMoCQ" x="41" y="9"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_UqK48GNCEeyHZPIunCMoCQ" type="3005" element="_UpqioWNCEeyHZPIunCMoCQ">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_UqK48WNCEeyHZPIunCMoCQ" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UqK48mNCEeyHZPIunCMoCQ"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_UqC9IWNCEeyHZPIunCMoCQ" fontName="Segoe UI" fontHeight="12"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UqC9ImNCEeyHZPIunCMoCQ" x="360" y="328" width="40" height="40"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_UqELQGNCEeyHZPIunCMoCQ" type="2001" element="_UprJsGNCEeyHZPIunCMoCQ">
+          <children xmi:type="notation:Node" xmi:id="_UqEyUGNCEeyHZPIunCMoCQ" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_UqEyUWNCEeyHZPIunCMoCQ" x="41" y="9"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_UqLgAGNCEeyHZPIunCMoCQ" type="3005" element="_UprJsWNCEeyHZPIunCMoCQ">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_UqLgAWNCEeyHZPIunCMoCQ" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UqLgAmNCEeyHZPIunCMoCQ"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_UqELQWNCEeyHZPIunCMoCQ" fontName="Segoe UI" fontHeight="12"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UqELQmNCEeyHZPIunCMoCQ" x="405" y="175" width="40" height="40"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_UqFZYGNCEeyHZPIunCMoCQ" type="2001" element="_UprwwWNCEeyHZPIunCMoCQ">
+          <children xmi:type="notation:Node" xmi:id="_UqGngGNCEeyHZPIunCMoCQ" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_UqGngWNCEeyHZPIunCMoCQ" x="41" y="9"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_UqLgA2NCEeyHZPIunCMoCQ" type="3005" element="_UpsX0GNCEeyHZPIunCMoCQ">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_UqLgBGNCEeyHZPIunCMoCQ" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UqLgBWNCEeyHZPIunCMoCQ"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_UqFZYWNCEeyHZPIunCMoCQ" fontName="Segoe UI" fontHeight="12"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UqFZYmNCEeyHZPIunCMoCQ" x="380" y="20" width="40" height="40"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_UqHOkGNCEeyHZPIunCMoCQ" type="2001" element="_Ups-4GNCEeyHZPIunCMoCQ">
+          <children xmi:type="notation:Node" xmi:id="_UqH1oGNCEeyHZPIunCMoCQ" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_UqH1oWNCEeyHZPIunCMoCQ" x="-35" y="29"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_UqMHEGNCEeyHZPIunCMoCQ" type="3005" element="_Ups-4WNCEeyHZPIunCMoCQ">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_UqMHEWNCEeyHZPIunCMoCQ" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UqMHEmNCEeyHZPIunCMoCQ"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_UqHOkWNCEeyHZPIunCMoCQ" fontName="Segoe UI" fontHeight="12"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UqHOkmNCEeyHZPIunCMoCQ" x="670" y="291" width="46" height="38"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_UqIcsGNCEeyHZPIunCMoCQ" type="2001" element="_Uptl8WNCEeyHZPIunCMoCQ">
+          <children xmi:type="notation:Node" xmi:id="_UqIcs2NCEeyHZPIunCMoCQ" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_UqIctGNCEeyHZPIunCMoCQ" x="-42" y="23"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_UqMuIGNCEeyHZPIunCMoCQ" type="3005" element="_UpuNAGNCEeyHZPIunCMoCQ">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_UqMuIWNCEeyHZPIunCMoCQ" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UqMuImNCEeyHZPIunCMoCQ"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_UqIcsWNCEeyHZPIunCMoCQ" fontName="Segoe UI" fontHeight="12"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UqIcsmNCEeyHZPIunCMoCQ" x="75" y="315" width="55" height="32"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_UqJDwGNCEeyHZPIunCMoCQ" type="2001" element="_Upu0EGNCEeyHZPIunCMoCQ">
+          <children xmi:type="notation:Node" xmi:id="_UqJq0GNCEeyHZPIunCMoCQ" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_UqJq0WNCEeyHZPIunCMoCQ" x="41" y="9"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_UqMuI2NCEeyHZPIunCMoCQ" type="3005" element="_Upu0EWNCEeyHZPIunCMoCQ">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_UqMuJGNCEeyHZPIunCMoCQ" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UqMuJWNCEeyHZPIunCMoCQ"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_UqJDwWNCEeyHZPIunCMoCQ" fontName="Segoe UI" fontHeight="12"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UqJDwmNCEeyHZPIunCMoCQ" x="115" y="65" width="40" height="40"/>
+        </children>
+        <styles xmi:type="notation:DiagramStyle" xmi:id="_UpgKkmNCEeyHZPIunCMoCQ"/>
+        <edges xmi:type="notation:Edge" xmi:id="_UqN8QGNCEeyHZPIunCMoCQ" type="4001" element="_UpvbIGNCEeyHZPIunCMoCQ" source="_UqC9IGNCEeyHZPIunCMoCQ" target="_Up82gGNCEeyHZPIunCMoCQ">
+          <children xmi:type="notation:Node" xmi:id="_UqOjUGNCEeyHZPIunCMoCQ" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UqOjUWNCEeyHZPIunCMoCQ" x="20" y="-8"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_UqOjUmNCEeyHZPIunCMoCQ" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UqOjU2NCEeyHZPIunCMoCQ" x="17" y="8"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_UqOjVGNCEeyHZPIunCMoCQ" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UqOjVWNCEeyHZPIunCMoCQ" x="-4" y="7"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_UqN8QWNCEeyHZPIunCMoCQ"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_UqN8QmNCEeyHZPIunCMoCQ" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_UqN8Q2NCEeyHZPIunCMoCQ" points="[0, 0, -345, 243]$[75, -38, -270, 205]$[345, -243, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UqPKYGNCEeyHZPIunCMoCQ" id="(0.5,0.0)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UqPKYWNCEeyHZPIunCMoCQ" id="(0.5,1.0)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_UqPxcGNCEeyHZPIunCMoCQ" type="4001" element="_UpwpQGNCEeyHZPIunCMoCQ" source="_UqFZYGNCEeyHZPIunCMoCQ" target="_UqELQGNCEeyHZPIunCMoCQ">
+          <children xmi:type="notation:Node" xmi:id="_UqPxdGNCEeyHZPIunCMoCQ" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UqPxdWNCEeyHZPIunCMoCQ" x="-5" y="-2"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_UqQYgGNCEeyHZPIunCMoCQ" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UqQYgWNCEeyHZPIunCMoCQ" x="17" y="5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_UqQYgmNCEeyHZPIunCMoCQ" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UqQYg2NCEeyHZPIunCMoCQ" x="-2"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_UqPxcWNCEeyHZPIunCMoCQ"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_UqPxcmNCEeyHZPIunCMoCQ" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_UqPxc2NCEeyHZPIunCMoCQ" points="[0, 0, -25, -115]$[25, 95, 0, -20]$[25, 95, 0, -20]$[25, 95, 0, -20]$[25, 135, 0, 20]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UqQ_kGNCEeyHZPIunCMoCQ" id="(0.5,1.0)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UqQ_kWNCEeyHZPIunCMoCQ" id="(0.5,0.0)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_UqQ_kmNCEeyHZPIunCMoCQ" type="4001" element="_Upx3YGNCEeyHZPIunCMoCQ" source="_UqELQGNCEeyHZPIunCMoCQ" target="_Up82gGNCEeyHZPIunCMoCQ">
+          <children xmi:type="notation:Node" xmi:id="_UqRmoGNCEeyHZPIunCMoCQ" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UqRmoWNCEeyHZPIunCMoCQ" x="2" y="-9"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_UqRmomNCEeyHZPIunCMoCQ" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UqRmo2NCEeyHZPIunCMoCQ" x="-5" y="8"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_UqRmpGNCEeyHZPIunCMoCQ" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UqRmpWNCEeyHZPIunCMoCQ" x="-4" y="7"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_UqQ_k2NCEeyHZPIunCMoCQ"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_UqQ_lGNCEeyHZPIunCMoCQ" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_UqQ_lWNCEeyHZPIunCMoCQ" points="[0, 0, -300, 90]$[300, -90, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UqRmpmNCEeyHZPIunCMoCQ" id="(0.5,0.0)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UqRmp2NCEeyHZPIunCMoCQ" id="(0.5,1.0)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_UqRmqGNCEeyHZPIunCMoCQ" type="4001" element="_UpzFgGNCEeyHZPIunCMoCQ" source="_UqELQGNCEeyHZPIunCMoCQ" target="_UqC9IGNCEeyHZPIunCMoCQ">
+          <children xmi:type="notation:Node" xmi:id="_UqSNsGNCEeyHZPIunCMoCQ" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UqSNsWNCEeyHZPIunCMoCQ" x="13" y="2"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_UqSNsmNCEeyHZPIunCMoCQ" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UqSNs2NCEeyHZPIunCMoCQ" x="10" y="-2"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_UqSNtGNCEeyHZPIunCMoCQ" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UqSNtWNCEeyHZPIunCMoCQ" x="-30" y="2"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_UqRmqWNCEeyHZPIunCMoCQ"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_UqRmqmNCEeyHZPIunCMoCQ" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_UqRmq2NCEeyHZPIunCMoCQ" points="[-10, 40, 35, -153]$[-45, 193, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UqS0wGNCEeyHZPIunCMoCQ" id="(0.5,0.0)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UqS0wWNCEeyHZPIunCMoCQ" id="(0.5,1.0)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_UqS0wmNCEeyHZPIunCMoCQ" type="4001" element="_Up0ToGNCEeyHZPIunCMoCQ" source="_UqELQGNCEeyHZPIunCMoCQ" target="_UqJDwGNCEeyHZPIunCMoCQ">
+          <children xmi:type="notation:Node" xmi:id="_UqTb0GNCEeyHZPIunCMoCQ" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UqTb0WNCEeyHZPIunCMoCQ" x="13" y="1"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_UqTb0mNCEeyHZPIunCMoCQ" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UqTb02NCEeyHZPIunCMoCQ" x="-8" y="3"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_UqTb1GNCEeyHZPIunCMoCQ" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UqTb1WNCEeyHZPIunCMoCQ" x="-13" y="3"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_UqS0w2NCEeyHZPIunCMoCQ"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_UqS0xGNCEeyHZPIunCMoCQ" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_UqS0xWNCEeyHZPIunCMoCQ" points="[0, 0, 290, 70]$[-290, -70, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UqTb1mNCEeyHZPIunCMoCQ" id="(0.5,0.0)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UqTb12NCEeyHZPIunCMoCQ" id="(0.5,1.0)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_UqUp8GNCEeyHZPIunCMoCQ" type="4001" element="_Up1hwGNCEeyHZPIunCMoCQ" source="_UqELQGNCEeyHZPIunCMoCQ" target="_UqHOkGNCEeyHZPIunCMoCQ">
+          <children xmi:type="notation:Node" xmi:id="_UqV4EGNCEeyHZPIunCMoCQ" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UqV4EWNCEeyHZPIunCMoCQ" x="-7" y="-9"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_UqWfIGNCEeyHZPIunCMoCQ" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UqWfIWNCEeyHZPIunCMoCQ" x="1" y="9"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_UqXGMGNCEeyHZPIunCMoCQ" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UqXGMWNCEeyHZPIunCMoCQ" x="2" y="9"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_UqUp8WNCEeyHZPIunCMoCQ"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_UqUp8mNCEeyHZPIunCMoCQ" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_UqUp82NCEeyHZPIunCMoCQ" points="[14, 26, -236, -100]$[30, 39, -220, -87]$[245, 124, -5, -2]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UqXtQGNCEeyHZPIunCMoCQ" id="(0.5,0.0)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UqXtQWNCEeyHZPIunCMoCQ" id="(0.10869565217391304,0.2631578947368421)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_UqXtQmNCEeyHZPIunCMoCQ" type="4001" element="_Up2I0GNCEeyHZPIunCMoCQ" source="_UqC9IGNCEeyHZPIunCMoCQ" target="_UqFZYGNCEeyHZPIunCMoCQ">
+          <children xmi:type="notation:Node" xmi:id="_UqYUUGNCEeyHZPIunCMoCQ" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UqYUUWNCEeyHZPIunCMoCQ" x="12" y="-2"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_UqYUUmNCEeyHZPIunCMoCQ" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UqYUU2NCEeyHZPIunCMoCQ" x="-6" y="-3"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_UqYUVGNCEeyHZPIunCMoCQ" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UqYUVWNCEeyHZPIunCMoCQ" x="-11" y="-3"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_UqXtQ2NCEeyHZPIunCMoCQ"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_UqXtRGNCEeyHZPIunCMoCQ" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_UqXtRWNCEeyHZPIunCMoCQ" points="[0, 0, -20, 268]$[20, -268, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UqY7YGNCEeyHZPIunCMoCQ" id="(0.5,0.0)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UqY7YWNCEeyHZPIunCMoCQ" id="(0.5,1.0)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_UqY7YmNCEeyHZPIunCMoCQ" type="4001" element="_Up2v4mNCEeyHZPIunCMoCQ" source="_UqJDwGNCEeyHZPIunCMoCQ" target="_UqFZYGNCEeyHZPIunCMoCQ">
+          <children xmi:type="notation:Node" xmi:id="_UqZicGNCEeyHZPIunCMoCQ" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UqZicWNCEeyHZPIunCMoCQ" x="-10" y="-1"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_UqZicmNCEeyHZPIunCMoCQ" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UqZic2NCEeyHZPIunCMoCQ" x="7" y="-2"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_UqZidGNCEeyHZPIunCMoCQ" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UqZidWNCEeyHZPIunCMoCQ" x="4" y="-2"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_UqY7Y2NCEeyHZPIunCMoCQ"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_UqY7ZGNCEeyHZPIunCMoCQ" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_UqY7ZWNCEeyHZPIunCMoCQ" points="[20, -1, -245, 4]$[265, -5, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UqaJgGNCEeyHZPIunCMoCQ" id="(0.5,0.0)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UqaJgWNCEeyHZPIunCMoCQ" id="(0.5,1.0)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_UqaJgmNCEeyHZPIunCMoCQ" type="4001" element="_Up3-AGNCEeyHZPIunCMoCQ" source="_UqJDwGNCEeyHZPIunCMoCQ" target="_UqIcsGNCEeyHZPIunCMoCQ">
+          <children xmi:type="notation:Node" xmi:id="_UqawkGNCEeyHZPIunCMoCQ" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UqawkWNCEeyHZPIunCMoCQ" x="16" y="2"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_UqawkmNCEeyHZPIunCMoCQ" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Uqawk2NCEeyHZPIunCMoCQ" x="-24" y="3"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_UqawlGNCEeyHZPIunCMoCQ" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UqawlWNCEeyHZPIunCMoCQ" x="-16" y="3"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_UqaJg2NCEeyHZPIunCMoCQ"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_UqaJhGNCEeyHZPIunCMoCQ" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_UqaJhWNCEeyHZPIunCMoCQ" points="[-9, 40, 46, -220]$[-53, 250, 2, -10]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UqbXoGNCEeyHZPIunCMoCQ" id="(0.5,0.0)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UqbXoWNCEeyHZPIunCMoCQ" id="(0.09090909090909091,0.3125)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_UqbXomNCEeyHZPIunCMoCQ" type="4001" element="_Up4lEGNCEeyHZPIunCMoCQ" source="_UqC9IGNCEeyHZPIunCMoCQ" target="_UqIcsGNCEeyHZPIunCMoCQ">
+          <children xmi:type="notation:Node" xmi:id="_Uqb-sGNCEeyHZPIunCMoCQ" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Uqb-sWNCEeyHZPIunCMoCQ" x="-10" y="1"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_Uqb-smNCEeyHZPIunCMoCQ" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Uqb-s2NCEeyHZPIunCMoCQ" x="11" y="2"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_Uqb-tGNCEeyHZPIunCMoCQ" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Uqb-tWNCEeyHZPIunCMoCQ" x="8" y="1"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_UqbXo2NCEeyHZPIunCMoCQ"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_UqbXpGNCEeyHZPIunCMoCQ" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_UqbXpWNCEeyHZPIunCMoCQ" points="[-20, -1, 280, 2]$[-250, -3, 50, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UqclwGNCEeyHZPIunCMoCQ" id="(0.5,0.0)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UqclwWNCEeyHZPIunCMoCQ" id="(0.09090909090909091,0.3125)"/>
+        </edges>
+      </data>
+    </ownedAnnotationEntries>
+    <ownedAnnotationEntries xmi:type="description:AnnotationEntry" uid="_Up5MImNCEeyHZPIunCMoCQ" source="DANNOTATION_CUSTOMIZATION_KEY">
+      <data xmi:type="diagram:ComputedStyleDescriptionRegistry" uid="_Up5MI2NCEeyHZPIunCMoCQ"/>
+    </ownedAnnotationEntries>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_UppUgGNCEeyHZPIunCMoCQ" name="DateData" incomingEdges="_UpvbIGNCEeyHZPIunCMoCQ _Upx3YGNCEeyHZPIunCMoCQ" width="4" height="4" resizeKind="NSEW">
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_UppUgWNCEeyHZPIunCMoCQ" labelSize="12" showIcon="false" workspacePath="/qr.design/icons/DateData.png">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='DateData']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='DateData']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_UpqioGNCEeyHZPIunCMoCQ" name="Signature" outgoingEdges="_UpvbIGNCEeyHZPIunCMoCQ _Up2I0GNCEeyHZPIunCMoCQ _Up4lEGNCEeyHZPIunCMoCQ" incomingEdges="_UpzFgGNCEeyHZPIunCMoCQ" width="4" height="4" resizeKind="NSEW">
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_UpqioWNCEeyHZPIunCMoCQ" labelSize="12" showIcon="false" workspacePath="/qr.design/icons/Signature.png">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='Signature']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='Signature']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_UprJsGNCEeyHZPIunCMoCQ" name="EncryptedQR" outgoingEdges="_Upx3YGNCEeyHZPIunCMoCQ _UpzFgGNCEeyHZPIunCMoCQ _Up0ToGNCEeyHZPIunCMoCQ _Up1hwGNCEeyHZPIunCMoCQ" incomingEdges="_UpwpQGNCEeyHZPIunCMoCQ" width="4" height="4" resizeKind="NSEW">
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_UprJsWNCEeyHZPIunCMoCQ" labelSize="12" showIcon="false" workspacePath="/qr.design/icons/EncryptedQR.png">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='EncryptedQR']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='EncryptedQR']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_UprwwWNCEeyHZPIunCMoCQ" name="DecryptedQR" outgoingEdges="_UpwpQGNCEeyHZPIunCMoCQ" incomingEdges="_Up2I0GNCEeyHZPIunCMoCQ _Up2v4mNCEeyHZPIunCMoCQ" width="4" height="4" resizeKind="NSEW">
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_UpsX0GNCEeyHZPIunCMoCQ" labelSize="12" showIcon="false" workspacePath="/qr.design/icons/DecryptedQR.png">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='DecryptedQR']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='DecryptedQR']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_Ups-4GNCEeyHZPIunCMoCQ" name="Certificate" incomingEdges="_Up1hwGNCEeyHZPIunCMoCQ" width="0" height="0" resizeKind="NSEW">
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_Ups-4WNCEeyHZPIunCMoCQ" labelSize="12" showIcon="false" workspacePath="/qr.design/icons/Certificate.png">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='Certificate']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='Certificate']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_Uptl8WNCEeyHZPIunCMoCQ" name="Comparison" incomingEdges="_Up3-AGNCEeyHZPIunCMoCQ _Up4lEGNCEeyHZPIunCMoCQ" width="0" height="0" resizeKind="NSEW">
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_UpuNAGNCEeyHZPIunCMoCQ" labelSize="12" showIcon="false" workspacePath="/qr.design/icons/Comparison.png">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='Comparison']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='Comparison']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_Upu0EGNCEeyHZPIunCMoCQ" name="Algorithm" outgoingEdges="_Up2v4mNCEeyHZPIunCMoCQ _Up3-AGNCEeyHZPIunCMoCQ" incomingEdges="_Up0ToGNCEeyHZPIunCMoCQ" width="4" height="4" resizeKind="NSEW">
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_Upu0EWNCEeyHZPIunCMoCQ" labelSize="12" showIcon="false" workspacePath="/qr.design/icons/Algorithm.png">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='Algorithm']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='Algorithm']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_UpvbIGNCEeyHZPIunCMoCQ" sourceNode="_UpqioGNCEeyHZPIunCMoCQ" targetNode="_UppUgGNCEeyHZPIunCMoCQ">
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_UpvbIWNCEeyHZPIunCMoCQ" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='Signature-hashcode']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_UpvbImNCEeyHZPIunCMoCQ" labelSize="12" showIcon="false"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='Signature-hashcode']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_UpwpQGNCEeyHZPIunCMoCQ" sourceNode="_UprwwWNCEeyHZPIunCMoCQ" targetNode="_UprJsGNCEeyHZPIunCMoCQ">
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_UpwpQWNCEeyHZPIunCMoCQ" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='DecryptedQR-encryptedqr']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_UpwpQmNCEeyHZPIunCMoCQ" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='DecryptedQR-encryptedqr']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_Upx3YGNCEeyHZPIunCMoCQ" sourceNode="_UprJsGNCEeyHZPIunCMoCQ" targetNode="_UppUgGNCEeyHZPIunCMoCQ">
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_UpyecGNCEeyHZPIunCMoCQ" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='EncryptedQR-datedata']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_UpyecWNCEeyHZPIunCMoCQ" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='EncryptedQR-datedata']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_UpzFgGNCEeyHZPIunCMoCQ" sourceNode="_UprJsGNCEeyHZPIunCMoCQ" targetNode="_UpqioGNCEeyHZPIunCMoCQ">
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_UpzFgWNCEeyHZPIunCMoCQ" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='EncryptedQR-signature']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_UpzFgmNCEeyHZPIunCMoCQ" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='EncryptedQR-signature']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_Up0ToGNCEeyHZPIunCMoCQ" sourceNode="_UprJsGNCEeyHZPIunCMoCQ" targetNode="_Upu0EGNCEeyHZPIunCMoCQ">
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_Up0ToWNCEeyHZPIunCMoCQ" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='EncryptedQR-algorithm']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_Up0TomNCEeyHZPIunCMoCQ" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='EncryptedQR-algorithm']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_Up1hwGNCEeyHZPIunCMoCQ" sourceNode="_UprJsGNCEeyHZPIunCMoCQ" targetNode="_Ups-4GNCEeyHZPIunCMoCQ">
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_Up1hwWNCEeyHZPIunCMoCQ" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='EncryptedQR-certificate']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_Up1hwmNCEeyHZPIunCMoCQ" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='EncryptedQR-certificate']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_Up2I0GNCEeyHZPIunCMoCQ" sourceNode="_UpqioGNCEeyHZPIunCMoCQ" targetNode="_UprwwWNCEeyHZPIunCMoCQ">
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_Up2I0WNCEeyHZPIunCMoCQ" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='Signature-decryptedQR']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_Up2I0mNCEeyHZPIunCMoCQ" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='Signature-decryptedQR']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_Up2v4mNCEeyHZPIunCMoCQ" sourceNode="_Upu0EGNCEeyHZPIunCMoCQ" targetNode="_UprwwWNCEeyHZPIunCMoCQ">
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_Up3W8GNCEeyHZPIunCMoCQ" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='Algorithm-decryptedQR']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_Up3W8WNCEeyHZPIunCMoCQ" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='Algorithm-decryptedQR']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_Up3-AGNCEeyHZPIunCMoCQ" sourceNode="_Upu0EGNCEeyHZPIunCMoCQ" targetNode="_Uptl8WNCEeyHZPIunCMoCQ">
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_Up3-AWNCEeyHZPIunCMoCQ" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='Algorithm-comparison']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_Up3-AmNCEeyHZPIunCMoCQ" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='Algorithm-comparison']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_Up4lEGNCEeyHZPIunCMoCQ" sourceNode="_UpqioGNCEeyHZPIunCMoCQ" targetNode="_Uptl8WNCEeyHZPIunCMoCQ">
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_Up4lEWNCEeyHZPIunCMoCQ" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='Signature-comparison']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_Up4lEmNCEeyHZPIunCMoCQ" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='Signature-comparison']"/>
+    </ownedDiagramElements>
+    <description xmi:type="description_1:DiagramDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']"/>
+    <filterVariableHistory xmi:type="diagram:FilterVariableHistory" uid="_UpMBgGNCEeyHZPIunCMoCQ"/>
+    <activatedLayers xmi:type="description_1:Layer" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer"/>
+    <target xmi:type="qR1:QR" href="My.qr1#/"/>
+  </diagram:DSemanticDiagram>
+  <diagram:DSemanticDiagram uid="_ewxHUGO3Eeyg0cIvkBlpmA">
+    <ownedAnnotationEntries xmi:type="description:AnnotationEntry" uid="_ew3N8GO3Eeyg0cIvkBlpmA" source="GMF_DIAGRAMS">
+      <data xmi:type="notation:Diagram" xmi:id="_ew3N8WO3Eeyg0cIvkBlpmA" type="Sirius" element="_ewxHUGO3Eeyg0cIvkBlpmA" measurementUnit="Pixel">
+        <children xmi:type="notation:Node" xmi:id="_YNBOMHxoEeyKcJS45NchOg" type="2001" element="_YMozsHxoEeyKcJS45NchOg">
+          <children xmi:type="notation:Node" xmi:id="_YNERgHxoEeyKcJS45NchOg" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_YNERgXxoEeyKcJS45NchOg" x="41" y="9"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_YNST8HxoEeyKcJS45NchOg" type="3005" element="_YMpawHxoEeyKcJS45NchOg">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_YNS7AHxoEeyKcJS45NchOg" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_YNS7AXxoEeyKcJS45NchOg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_YNBOMXxoEeyKcJS45NchOg" fontName="Segoe UI" fontHeight="12"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_YNBOMnxoEeyKcJS45NchOg" x="35" y="120" width="40" height="40"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_YNJxEHxoEeyKcJS45NchOg" type="2001" element="_YMqo4HxoEeyKcJS45NchOg">
+          <children xmi:type="notation:Node" xmi:id="_YNK_MHxoEeyKcJS45NchOg" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_YNK_MXxoEeyKcJS45NchOg" x="-4" y="-22"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_YNTiEHxoEeyKcJS45NchOg" type="3005" element="_YMqo4XxoEeyKcJS45NchOg">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_YNTiEXxoEeyKcJS45NchOg" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_YNTiEnxoEeyKcJS45NchOg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_YNJxEXxoEeyKcJS45NchOg" fontName="Segoe UI" fontHeight="12"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_YNJxEnxoEeyKcJS45NchOg" x="190" y="210" width="40" height="40"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_YNLmQHxoEeyKcJS45NchOg" type="2001" element="_YMseEHxoEeyKcJS45NchOg">
+          <children xmi:type="notation:Node" xmi:id="_YNMNUHxoEeyKcJS45NchOg" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_YNMNUXxoEeyKcJS45NchOg" x="41" y="9"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_YNUJIHxoEeyKcJS45NchOg" type="3005" element="_YMtFIHxoEeyKcJS45NchOg">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_YNUJIXxoEeyKcJS45NchOg" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_YNUJInxoEeyKcJS45NchOg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_YNLmQXxoEeyKcJS45NchOg" fontName="Segoe UI" fontHeight="12"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_YNLmQnxoEeyKcJS45NchOg" x="170" width="40" height="40"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_YNM0YHxoEeyKcJS45NchOg" type="2001" element="_YMtsMHxoEeyKcJS45NchOg">
+          <children xmi:type="notation:Node" xmi:id="_YNOCgHxoEeyKcJS45NchOg" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_YNOCgXxoEeyKcJS45NchOg" x="-7" y="-22"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_YNUwMHxoEeyKcJS45NchOg" type="3005" element="_YMuTQHxoEeyKcJS45NchOg">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_YNUwMXxoEeyKcJS45NchOg" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_YNUwMnxoEeyKcJS45NchOg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_YNM0YXxoEeyKcJS45NchOg" fontName="Segoe UI" fontHeight="12"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_YNM0YnxoEeyKcJS45NchOg" x="390" y="39" width="40" height="40"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_YNOpkHxoEeyKcJS45NchOg" type="2001" element="_YMu6UHxoEeyKcJS45NchOg">
+          <children xmi:type="notation:Node" xmi:id="_YNPQoHxoEeyKcJS45NchOg" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_YNPQoXxoEeyKcJS45NchOg" x="-16" y="45"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_YNV-UHxoEeyKcJS45NchOg" type="3005" element="_YMvhYHxoEeyKcJS45NchOg">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_YNV-UXxoEeyKcJS45NchOg" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_YNV-UnxoEeyKcJS45NchOg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_YNOpkXxoEeyKcJS45NchOg" fontName="Segoe UI" fontHeight="12"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_YNOpknxoEeyKcJS45NchOg" x="1" y="2" width="50" height="44"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_YNP3sHxoEeyKcJS45NchOg" type="2001" element="_YMwvgHxoEeyKcJS45NchOg">
+          <children xmi:type="notation:Node" xmi:id="_YNQewHxoEeyKcJS45NchOg" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_YNQewXxoEeyKcJS45NchOg" x="-13" y="37"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_YNWlYHxoEeyKcJS45NchOg" type="3005" element="_YMxWkHxoEeyKcJS45NchOg">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_YNWlYXxoEeyKcJS45NchOg" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_YNWlYnxoEeyKcJS45NchOg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_YNP3sXxoEeyKcJS45NchOg" fontName="Segoe UI" fontHeight="12"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_YNP3snxoEeyKcJS45NchOg" x="120" y="335" width="51" height="46"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_YNRF0HxoEeyKcJS45NchOg" type="2001" element="_YMyksHxoEeyKcJS45NchOg">
+          <children xmi:type="notation:Node" xmi:id="_YNRs4HxoEeyKcJS45NchOg" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_YNRs4XxoEeyKcJS45NchOg" y="-22"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_YNXMcHxoEeyKcJS45NchOg" type="3005" element="_YMzLwHxoEeyKcJS45NchOg">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_YNXMcXxoEeyKcJS45NchOg" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_YNXMcnxoEeyKcJS45NchOg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_YNRF0XxoEeyKcJS45NchOg" fontName="Segoe UI" fontHeight="12"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_YNRF0nxoEeyKcJS45NchOg" x="440" y="239" width="40" height="40"/>
+        </children>
+        <styles xmi:type="notation:DiagramStyle" xmi:id="_ew3N8mO3Eeyg0cIvkBlpmA"/>
+        <edges xmi:type="notation:Edge" xmi:id="_YNYakHxoEeyKcJS45NchOg" type="4001" element="_YM0Z4HxoEeyKcJS45NchOg" source="_YNJxEHxoEeyKcJS45NchOg" target="_YNBOMHxoEeyKcJS45NchOg">
+          <children xmi:type="notation:Node" xmi:id="_YNZBoHxoEeyKcJS45NchOg" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_YNZBoXxoEeyKcJS45NchOg" x="11" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_YNZBonxoEeyKcJS45NchOg" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_YNZBo3xoEeyKcJS45NchOg" x="-8" y="9"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_YNZBpHxoEeyKcJS45NchOg" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_YNZBpXxoEeyKcJS45NchOg" x="-8" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_YNYakXxoEeyKcJS45NchOg"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_YNYaknxoEeyKcJS45NchOg" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_YNYak3xoEeyKcJS45NchOg" points="[0, 0, 155, 50]$[-155, -50, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_YNZosHxoEeyKcJS45NchOg" id="(0.5,0.0)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_YNZosXxoEeyKcJS45NchOg" id="(0.5,1.0)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_YNaPwHxoEeyKcJS45NchOg" type="4001" element="_YM1oAHxoEeyKcJS45NchOg" source="_YNM0YHxoEeyKcJS45NchOg" target="_YNLmQHxoEeyKcJS45NchOg">
+          <children xmi:type="notation:Node" xmi:id="_YNa20HxoEeyKcJS45NchOg" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_YNa20XxoEeyKcJS45NchOg" x="17" y="-4"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_YNa20nxoEeyKcJS45NchOg" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_YNa203xoEeyKcJS45NchOg" x="-17" y="5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_YNa21HxoEeyKcJS45NchOg" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_YNa21XxoEeyKcJS45NchOg" x="-16" y="6"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_YNaPwXxoEeyKcJS45NchOg"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_YNaPwnxoEeyKcJS45NchOg" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_YNaPw3xoEeyKcJS45NchOg" points="[-20, 0, 200, -1]$[-220, 1, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_YNbd4HxoEeyKcJS45NchOg" id="(0.5,0.0)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_YNbd4XxoEeyKcJS45NchOg" id="(0.5,1.0)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_YNbd4nxoEeyKcJS45NchOg" type="4001" element="_YM4EQHxoEeyKcJS45NchOg" source="_YNJxEHxoEeyKcJS45NchOg" target="_YNM0YHxoEeyKcJS45NchOg">
+          <children xmi:type="notation:Node" xmi:id="_YNcE8HxoEeyKcJS45NchOg" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_YNcE8XxoEeyKcJS45NchOg" x="-18" y="-8"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_YNcE8nxoEeyKcJS45NchOg" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_YNcE83xoEeyKcJS45NchOg" x="12" y="4"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_YNcE9HxoEeyKcJS45NchOg" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_YNcE9XxoEeyKcJS45NchOg" x="7" y="4"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_YNbd43xoEeyKcJS45NchOg"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_YNbd5HxoEeyKcJS45NchOg" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_YNbd5XxoEeyKcJS45NchOg" points="[0, 0, -200, 131]$[200, -131, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_YNcsAHxoEeyKcJS45NchOg" id="(0.5,0.0)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_YNcsAXxoEeyKcJS45NchOg" id="(0.5,1.0)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_YNcsAnxoEeyKcJS45NchOg" type="4001" element="_YM55cHxoEeyKcJS45NchOg" source="_YNRF0HxoEeyKcJS45NchOg" target="_YNM0YHxoEeyKcJS45NchOg">
+          <children xmi:type="notation:Node" xmi:id="_YNdTEHxoEeyKcJS45NchOg" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_YNdTEXxoEeyKcJS45NchOg" x="-5" y="-7"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_YNdTEnxoEeyKcJS45NchOg" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_YNdTE3xoEeyKcJS45NchOg" x="4" y="7"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_YNdTFHxoEeyKcJS45NchOg" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_YNdTFXxoEeyKcJS45NchOg" x="8" y="7"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_YNcsA3xoEeyKcJS45NchOg"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_YNcsBHxoEeyKcJS45NchOg" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_YNcsBXxoEeyKcJS45NchOg" points="[0, 0, 50, 160]$[-50, -160, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_YNd6IHxoEeyKcJS45NchOg" id="(0.5,0.0)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_YNd6IXxoEeyKcJS45NchOg" id="(0.5,1.0)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_YNd6InxoEeyKcJS45NchOg" type="4001" element="_YM7HkHxoEeyKcJS45NchOg" source="_YNRF0HxoEeyKcJS45NchOg" target="_YNP3sHxoEeyKcJS45NchOg">
+          <children xmi:type="notation:Node" xmi:id="_YNehMHxoEeyKcJS45NchOg" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_YNehMXxoEeyKcJS45NchOg" x="16" y="7"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_YNehMnxoEeyKcJS45NchOg" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_YNehM3xoEeyKcJS45NchOg" x="-12" y="-5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_YNehNHxoEeyKcJS45NchOg" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_YNehNXxoEeyKcJS45NchOg" x="-15" y="-5"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_YNd6I3xoEeyKcJS45NchOg"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_YNd6JHxoEeyKcJS45NchOg" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_YNd6JXxoEeyKcJS45NchOg" points="[-20, 6, 315, -101]$[-301, 96, 34, -11]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_YNfIQHxoEeyKcJS45NchOg" id="(0.5,0.0)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_YNfIQXxoEeyKcJS45NchOg" id="(0.09803921568627451,0.21739130434782608)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_YNfIQnxoEeyKcJS45NchOg" type="4001" element="_YM8VsHxoEeyKcJS45NchOg" source="_YNJxEHxoEeyKcJS45NchOg" target="_YNP3sHxoEeyKcJS45NchOg">
+          <children xmi:type="notation:Node" xmi:id="_YNfvUHxoEeyKcJS45NchOg" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_YNfvUXxoEeyKcJS45NchOg" x="-4" y="9"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_YNfvUnxoEeyKcJS45NchOg" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_YNfvU3xoEeyKcJS45NchOg" x="3" y="-6"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_YNfvVHxoEeyKcJS45NchOg" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_YNfvVXxoEeyKcJS45NchOg" x="3" y="-9"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_YNfIQ3xoEeyKcJS45NchOg"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_YNfIRHxoEeyKcJS45NchOg" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_YNfIRXxoEeyKcJS45NchOg" points="[-20, 32, 65, -104]$[-79, 125, 6, -11]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_YNgWYHxoEeyKcJS45NchOg" id="(0.5,0.0)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_YNgWYXxoEeyKcJS45NchOg" id="(0.09803921568627451,0.21739130434782608)"/>
+        </edges>
+      </data>
+    </ownedAnnotationEntries>
+    <ownedAnnotationEntries xmi:type="description:AnnotationEntry" uid="_exJh0GO3Eeyg0cIvkBlpmA" source="DANNOTATION_CUSTOMIZATION_KEY">
+      <data xmi:type="diagram:ComputedStyleDescriptionRegistry" uid="_exJh0WO3Eeyg0cIvkBlpmA"/>
+    </ownedAnnotationEntries>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_YMozsHxoEeyKcJS45NchOg" name="Nazeeha(363530)" incomingEdges="_YM0Z4HxoEeyKcJS45NchOg" width="4" height="4" resizeKind="NSEW">
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_YMpawHxoEeyKcJS45NchOg" labelSize="12" showIcon="false" workspacePath="/qr.design/icons/DateData.png">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='DateData']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='DateData']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_YMqo4HxoEeyKcJS45NchOg" name="*124/9" outgoingEdges="_YM0Z4HxoEeyKcJS45NchOg _YM4EQHxoEeyKcJS45NchOg _YM8VsHxoEeyKcJS45NchOg" width="4" height="4" resizeKind="NSEW">
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_YMqo4XxoEeyKcJS45NchOg" labelSize="12" showIcon="false" workspacePath="/qr.design/icons/Signature.png">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='Signature']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='Signature']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_YMseEHxoEeyKcJS45NchOg" name="10001011" incomingEdges="_YM1oAHxoEeyKcJS45NchOg" width="4" height="4" resizeKind="NSEW">
+      <target xmi:type="qR1:EncryptedQR" href="My.qr1#//@encryptedqr.0"/>
+      <semanticElements xmi:type="qR1:EncryptedQR" href="My.qr1#//@encryptedqr.0"/>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_YMtFIHxoEeyKcJS45NchOg" labelSize="12" showIcon="false" workspacePath="/qr.design/icons/EncryptedQR.png">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='EncryptedQR']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='EncryptedQR']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_YMtsMHxoEeyKcJS45NchOg" name="MDCAS" outgoingEdges="_YM1oAHxoEeyKcJS45NchOg" incomingEdges="_YM4EQHxoEeyKcJS45NchOg _YM55cHxoEeyKcJS45NchOg" width="4" height="4" resizeKind="NSEW">
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_YMuTQHxoEeyKcJS45NchOg" labelSize="12" showIcon="false" workspacePath="/qr.design/icons/DecryptedQR.png">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='DecryptedQR']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='DecryptedQR']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_YMu6UHxoEeyKcJS45NchOg" name="s1254" width="0" height="0" resizeKind="NSEW">
+      <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_YMvhYHxoEeyKcJS45NchOg" labelSize="12" showIcon="false" workspacePath="/qr.design/icons/Certificate.png">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='Certificate']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='Certificate']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_YMwvgHxoEeyKcJS45NchOg" name="124" incomingEdges="_YM7HkHxoEeyKcJS45NchOg _YM8VsHxoEeyKcJS45NchOg" width="0" height="0" resizeKind="NSEW">
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_YMxWkHxoEeyKcJS45NchOg" labelSize="12" showIcon="false" workspacePath="/qr.design/icons/Comparison.png">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='Comparison']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='Comparison']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_YMyksHxoEeyKcJS45NchOg" name="MD5" outgoingEdges="_YM55cHxoEeyKcJS45NchOg _YM7HkHxoEeyKcJS45NchOg" width="4" height="4" resizeKind="NSEW">
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_YMzLwHxoEeyKcJS45NchOg" labelSize="12" showIcon="false" workspacePath="/qr.design/icons/Algorithm.png">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='Algorithm']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='Algorithm']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_YM0Z4HxoEeyKcJS45NchOg" sourceNode="_YMqo4HxoEeyKcJS45NchOg" targetNode="_YMozsHxoEeyKcJS45NchOg">
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_YM0Z4XxoEeyKcJS45NchOg" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='Signature-hashcode']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_YM0Z4nxoEeyKcJS45NchOg" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='Signature-hashcode']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_YM1oAHxoEeyKcJS45NchOg" sourceNode="_YMtsMHxoEeyKcJS45NchOg" targetNode="_YMseEHxoEeyKcJS45NchOg">
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_YM1oAXxoEeyKcJS45NchOg" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='DecryptedQR-encryptedqr']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_YM1oAnxoEeyKcJS45NchOg" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='DecryptedQR-encryptedqr']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_YM4EQHxoEeyKcJS45NchOg" sourceNode="_YMqo4HxoEeyKcJS45NchOg" targetNode="_YMtsMHxoEeyKcJS45NchOg">
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_YM4rUHxoEeyKcJS45NchOg" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='Signature-decryptedQR']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_YM4rUXxoEeyKcJS45NchOg" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='Signature-decryptedQR']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_YM55cHxoEeyKcJS45NchOg" sourceNode="_YMyksHxoEeyKcJS45NchOg" targetNode="_YMtsMHxoEeyKcJS45NchOg">
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_YM55cXxoEeyKcJS45NchOg" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='Algorithm-decryptedQR']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_YM55cnxoEeyKcJS45NchOg" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='Algorithm-decryptedQR']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_YM7HkHxoEeyKcJS45NchOg" sourceNode="_YMyksHxoEeyKcJS45NchOg" targetNode="_YMwvgHxoEeyKcJS45NchOg">
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_YM7uoHxoEeyKcJS45NchOg" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='Algorithm-comparison']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_YM7uoXxoEeyKcJS45NchOg" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='Algorithm-comparison']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_YM8VsHxoEeyKcJS45NchOg" sourceNode="_YMqo4HxoEeyKcJS45NchOg" targetNode="_YMwvgHxoEeyKcJS45NchOg">
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_YM88wHxoEeyKcJS45NchOg" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='Signature-comparison']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_YM88wXxoEeyKcJS45NchOg" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='Signature-comparison']"/>
+    </ownedDiagramElements>
+    <description xmi:type="description_1:DiagramDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']"/>
+    <filterVariableHistory xmi:type="diagram:FilterVariableHistory" uid="_ewxuYGO3Eeyg0cIvkBlpmA"/>
+    <activatedLayers xmi:type="description_1:Layer" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer"/>
+    <target xmi:type="qR1:QR" href="My.qr1#/"/>
+  </diagram:DSemanticDiagram>
+  <diagram:DSemanticDiagram uid="_EfadQHN3EeyTQtb_XaAbrw">
+    <ownedAnnotationEntries xmi:type="description:AnnotationEntry" uid="_EfwbgHN3EeyTQtb_XaAbrw" source="GMF_DIAGRAMS">
+      <data xmi:type="notation:Diagram" xmi:id="_EfwbgXN3EeyTQtb_XaAbrw" type="Sirius" element="_EfadQHN3EeyTQtb_XaAbrw" measurementUnit="Pixel">
+        <children xmi:type="notation:Node" xmi:id="_LT-1oHOpEeyTQtb_XaAbrw" type="2001" element="_LT7yUHOpEeyTQtb_XaAbrw">
+          <children xmi:type="notation:Node" xmi:id="_LT_csHOpEeyTQtb_XaAbrw" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_LT_csXOpEeyTQtb_XaAbrw" x="41" y="9"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_LT_csnOpEeyTQtb_XaAbrw" type="3005" element="_LT7yUXOpEeyTQtb_XaAbrw">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_LT_cs3OpEeyTQtb_XaAbrw" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_LT_ctHOpEeyTQtb_XaAbrw"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_LT-1oXOpEeyTQtb_XaAbrw" fontName="Segoe UI" fontHeight="12"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_LT-1onOpEeyTQtb_XaAbrw" x="340" y="230" width="40" height="40"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_L9yAkHOpEeyTQtb_XaAbrw" type="2001" element="_L9u9QHOpEeyTQtb_XaAbrw">
+          <children xmi:type="notation:Node" xmi:id="_L9yAk3OpEeyTQtb_XaAbrw" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_L9yAlHOpEeyTQtb_XaAbrw" x="-7" y="-22"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_L9ynoHOpEeyTQtb_XaAbrw" type="3005" element="_L9u9QXOpEeyTQtb_XaAbrw">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_L9ynoXOpEeyTQtb_XaAbrw" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_L9ynonOpEeyTQtb_XaAbrw"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_L9yAkXOpEeyTQtb_XaAbrw" fontName="Segoe UI" fontHeight="12"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_L9yAknOpEeyTQtb_XaAbrw" x="340" y="230" width="40" height="40"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_ibpUwHOpEeyTQtb_XaAbrw" type="2001" element="_ibm4gnOpEeyTQtb_XaAbrw">
+          <children xmi:type="notation:Node" xmi:id="_ibp70HOpEeyTQtb_XaAbrw" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_ibp70XOpEeyTQtb_XaAbrw" y="-22"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_ibp70nOpEeyTQtb_XaAbrw" type="3005" element="_ibm4g3OpEeyTQtb_XaAbrw">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_ibp703OpEeyTQtb_XaAbrw" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ibp71HOpEeyTQtb_XaAbrw"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_ibpUwXOpEeyTQtb_XaAbrw" fontName="Segoe UI" fontHeight="12"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ibpUwnOpEeyTQtb_XaAbrw" x="340" y="230" width="40" height="40"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_Ei5t8HOqEeyTQtb_XaAbrw" type="2001" element="_Ei3RsHOqEeyTQtb_XaAbrw">
+          <children xmi:type="notation:Node" xmi:id="_Ei6VAHOqEeyTQtb_XaAbrw" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_Ei6VAXOqEeyTQtb_XaAbrw" x="-4" y="-22"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_Ei68EHOqEeyTQtb_XaAbrw" type="3005" element="_Ei3RsXOqEeyTQtb_XaAbrw">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_Ei68EXOqEeyTQtb_XaAbrw" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Ei68EnOqEeyTQtb_XaAbrw"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_Ei5t8XOqEeyTQtb_XaAbrw" fontName="Segoe UI" fontHeight="12"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Ei5t8nOqEeyTQtb_XaAbrw" x="340" y="230" width="40" height="40"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_IDDa8HOqEeyTQtb_XaAbrw" type="2001" element="_IC_wlnOqEeyTQtb_XaAbrw">
+          <children xmi:type="notation:Node" xmi:id="_IDECAHOqEeyTQtb_XaAbrw" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_IDECAXOqEeyTQtb_XaAbrw" x="-13" y="1"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_IDECAnOqEeyTQtb_XaAbrw" type="3005" element="_IC_wl3OqEeyTQtb_XaAbrw">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_IDECA3OqEeyTQtb_XaAbrw" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_IDECBHOqEeyTQtb_XaAbrw"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_IDDa8XOqEeyTQtb_XaAbrw" fontName="Segoe UI" fontHeight="12"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_IDDa8nOqEeyTQtb_XaAbrw" x="340" y="230" width="0" height="0"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_XWenwHxoEeyKcJS45NchOg" type="2001" element="_XV0gcHxoEeyKcJS45NchOg">
+          <children xmi:type="notation:Node" xmi:id="_XWmjkHxoEeyKcJS45NchOg" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_XWmjkXxoEeyKcJS45NchOg" x="41" y="9"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_XXFEsHxoEeyKcJS45NchOg" type="3005" element="_XV3jwHxoEeyKcJS45NchOg">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_XXFEsXxoEeyKcJS45NchOg" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XXFEsnxoEeyKcJS45NchOg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_XWenwXxoEeyKcJS45NchOg" fontName="Segoe UI" fontHeight="12"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XWenwnxoEeyKcJS45NchOg" x="70" y="70" width="40" height="40"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_XW9v8HxoEeyKcJS45NchOg" type="2001" element="_XV71MnxoEeyKcJS45NchOg">
+          <children xmi:type="notation:Node" xmi:id="_XW--EHxoEeyKcJS45NchOg" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_XW--EXxoEeyKcJS45NchOg" x="-21" y="1"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_XXFrwHxoEeyKcJS45NchOg" type="3005" element="_XV8cQHxoEeyKcJS45NchOg">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_XXFrwXxoEeyKcJS45NchOg" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XXFrwnxoEeyKcJS45NchOg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_XW9v8XxoEeyKcJS45NchOg" fontName="Segoe UI" fontHeight="12"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XW9v8nxoEeyKcJS45NchOg" x="1" y="2" width="0" height="0"/>
+        </children>
+        <styles xmi:type="notation:DiagramStyle" xmi:id="_EfwbgnN3EeyTQtb_XaAbrw"/>
+        <edges xmi:type="notation:Edge" xmi:id="_r6qM4HOpEeyTQtb_XaAbrw" type="4001" element="_r6nwoHOpEeyTQtb_XaAbrw" source="_L9yAkHOpEeyTQtb_XaAbrw" target="_LT-1oHOpEeyTQtb_XaAbrw">
+          <children xmi:type="notation:Node" xmi:id="_r6qz8HOpEeyTQtb_XaAbrw" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_r6qz8XOpEeyTQtb_XaAbrw" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_r6qz8nOpEeyTQtb_XaAbrw" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_r6qz83OpEeyTQtb_XaAbrw" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_r6qz9HOpEeyTQtb_XaAbrw" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_r6qz9XOpEeyTQtb_XaAbrw" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_r6qM4XOpEeyTQtb_XaAbrw"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_r6qM4nOpEeyTQtb_XaAbrw" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_r6qM43OpEeyTQtb_XaAbrw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_r6qz9nOpEeyTQtb_XaAbrw" id="(0.5,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_r6rbAHOpEeyTQtb_XaAbrw" id="(0.5,0.5)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="__4GLsHOpEeyTQtb_XaAbrw" type="4001" element="__4DvdXOpEeyTQtb_XaAbrw" source="_ibpUwHOpEeyTQtb_XaAbrw" target="_L9yAkHOpEeyTQtb_XaAbrw">
+          <children xmi:type="notation:Node" xmi:id="__4GLtHOpEeyTQtb_XaAbrw" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="__4GLtXOpEeyTQtb_XaAbrw" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="__4GywHOpEeyTQtb_XaAbrw" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="__4GywXOpEeyTQtb_XaAbrw" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="__4GywnOpEeyTQtb_XaAbrw" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="__4Gyw3OpEeyTQtb_XaAbrw" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="__4GLsXOpEeyTQtb_XaAbrw"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="__4GLsnOpEeyTQtb_XaAbrw" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="__4GLs3OpEeyTQtb_XaAbrw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="__4GyxHOpEeyTQtb_XaAbrw" id="(0.5,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="__4GyxXOpEeyTQtb_XaAbrw" id="(0.5,0.5)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_F0vwUHOqEeyTQtb_XaAbrw" type="4001" element="_F0stB3OqEeyTQtb_XaAbrw" source="_Ei5t8HOqEeyTQtb_XaAbrw" target="_L9yAkHOpEeyTQtb_XaAbrw">
+          <children xmi:type="notation:Node" xmi:id="_F0wXYHOqEeyTQtb_XaAbrw" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_F0wXYXOqEeyTQtb_XaAbrw" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_F0wXYnOqEeyTQtb_XaAbrw" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_F0wXY3OqEeyTQtb_XaAbrw" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_F0wXZHOqEeyTQtb_XaAbrw" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_F0wXZXOqEeyTQtb_XaAbrw" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_F0vwUXOqEeyTQtb_XaAbrw"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_F0vwUnOqEeyTQtb_XaAbrw" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_F0vwU3OqEeyTQtb_XaAbrw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_F0wXZnOqEeyTQtb_XaAbrw" id="(0.5,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_F0wXZ3OqEeyTQtb_XaAbrw" id="(0.5,0.5)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_LZDGYHOqEeyTQtb_XaAbrw" type="4001" element="_LZAqM3OqEeyTQtb_XaAbrw" source="_ibpUwHOpEeyTQtb_XaAbrw" target="_IDDa8HOqEeyTQtb_XaAbrw">
+          <children xmi:type="notation:Node" xmi:id="_LZDGZHOqEeyTQtb_XaAbrw" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_LZDGZXOqEeyTQtb_XaAbrw" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_LZDGZnOqEeyTQtb_XaAbrw" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_LZDGZ3OqEeyTQtb_XaAbrw" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_LZDGaHOqEeyTQtb_XaAbrw" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_LZDGaXOqEeyTQtb_XaAbrw" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_LZDGYXOqEeyTQtb_XaAbrw"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_LZDGYnOqEeyTQtb_XaAbrw" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_LZDGY3OqEeyTQtb_XaAbrw" points="[0, 0, 20, 20]$[-20, -20, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_LZDtcHOqEeyTQtb_XaAbrw" id="(0.5,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_LZDtcXOqEeyTQtb_XaAbrw" id="(0.5,0.5)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_Ms-MYHOqEeyTQtb_XaAbrw" type="4001" element="_Ms7JEnOqEeyTQtb_XaAbrw" source="_Ei5t8HOqEeyTQtb_XaAbrw" target="_IDDa8HOqEeyTQtb_XaAbrw">
+          <children xmi:type="notation:Node" xmi:id="_Ms-zcHOqEeyTQtb_XaAbrw" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Ms-zcXOqEeyTQtb_XaAbrw" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_Ms-zcnOqEeyTQtb_XaAbrw" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Ms-zc3OqEeyTQtb_XaAbrw" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_Ms-zdHOqEeyTQtb_XaAbrw" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Ms-zdXOqEeyTQtb_XaAbrw" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_Ms-MYXOqEeyTQtb_XaAbrw"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_Ms-MYnOqEeyTQtb_XaAbrw" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_Ms-MY3OqEeyTQtb_XaAbrw" points="[0, 0, 20, 20]$[-20, -20, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Ms_agHOqEeyTQtb_XaAbrw" id="(0.5,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Ms_agXOqEeyTQtb_XaAbrw" id="(0.5,0.5)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_XXVjYHxoEeyKcJS45NchOg" type="4001" element="_XWDJ8HxoEeyKcJS45NchOg" source="_Ei5t8HOqEeyTQtb_XaAbrw" target="_XWenwHxoEeyKcJS45NchOg">
+          <children xmi:type="notation:Node" xmi:id="_XXWxgHxoEeyKcJS45NchOg" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XXWxgXxoEeyKcJS45NchOg" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_XXX_oHxoEeyKcJS45NchOg" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XXX_oXxoEeyKcJS45NchOg" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_XXYmsHxoEeyKcJS45NchOg" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XXYmsXxoEeyKcJS45NchOg" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_XXVjYXxoEeyKcJS45NchOg"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_XXVjYnxoEeyKcJS45NchOg" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_XXVjY3xoEeyKcJS45NchOg" points="[0, 0, -70, 60]$[70, -60, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_XXkM4HxoEeyKcJS45NchOg" id="(0.5,0.0)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_XXkM4XxoEeyKcJS45NchOg" id="(0.5,1.0)"/>
+        </edges>
+      </data>
+    </ownedAnnotationEntries>
+    <ownedAnnotationEntries xmi:type="description:AnnotationEntry" uid="_Ef8ownN3EeyTQtb_XaAbrw" source="DANNOTATION_CUSTOMIZATION_KEY">
+      <data xmi:type="diagram:ComputedStyleDescriptionRegistry" uid="_Ef8ow3N3EeyTQtb_XaAbrw"/>
+    </ownedAnnotationEntries>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_LT7yUHOpEeyTQtb_XaAbrw" name="10001011" incomingEdges="_r6nwoHOpEeyTQtb_XaAbrw" width="4" height="4" resizeKind="NSEW">
+      <target xmi:type="qR1:EncryptedQR" href="My.qr1#//@encryptedqr.0"/>
+      <semanticElements xmi:type="qR1:EncryptedQR" href="My.qr1#//@encryptedqr.0"/>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_LT7yUXOpEeyTQtb_XaAbrw" labelSize="12" showIcon="false" workspacePath="/qr.design/icons/EncryptedQR.png">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='EncryptedQR']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='EncryptedQR']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_L9u9QHOpEeyTQtb_XaAbrw" name="MDCAS" outgoingEdges="_r6nwoHOpEeyTQtb_XaAbrw" incomingEdges="__4DvdXOpEeyTQtb_XaAbrw _F0stB3OqEeyTQtb_XaAbrw" width="4" height="4" resizeKind="NSEW">
+      <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_L9u9QXOpEeyTQtb_XaAbrw" labelSize="12" showIcon="false" workspacePath="/qr.design/icons/DecryptedQR.png">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='DecryptedQR']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='DecryptedQR']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_ibm4gnOpEeyTQtb_XaAbrw" name="MD5" outgoingEdges="__4DvdXOpEeyTQtb_XaAbrw _LZAqM3OqEeyTQtb_XaAbrw" width="4" height="4" resizeKind="NSEW">
+      <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_ibm4g3OpEeyTQtb_XaAbrw" labelSize="12" showIcon="false" workspacePath="/qr.design/icons/Algorithm.png">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='Algorithm']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='Algorithm']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_r6nwoHOpEeyTQtb_XaAbrw" sourceNode="_L9u9QHOpEeyTQtb_XaAbrw" targetNode="_LT7yUHOpEeyTQtb_XaAbrw">
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_r6nwoXOpEeyTQtb_XaAbrw" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='DecryptedQR-encryptedqr']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_r6nwonOpEeyTQtb_XaAbrw" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='DecryptedQR-encryptedqr']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="__4DvdXOpEeyTQtb_XaAbrw" sourceNode="_ibm4gnOpEeyTQtb_XaAbrw" targetNode="_L9u9QHOpEeyTQtb_XaAbrw">
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="__4DvdnOpEeyTQtb_XaAbrw" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='Algorithm-decryptedQR']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="__4Dvd3OpEeyTQtb_XaAbrw" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='Algorithm-decryptedQR']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_Ei3RsHOqEeyTQtb_XaAbrw" name="*124/9" outgoingEdges="_F0stB3OqEeyTQtb_XaAbrw _Ms7JEnOqEeyTQtb_XaAbrw _XWDJ8HxoEeyKcJS45NchOg" width="4" height="4" resizeKind="NSEW">
+      <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_Ei3RsXOqEeyTQtb_XaAbrw" labelSize="12" showIcon="false" workspacePath="/qr.design/icons/Signature.png">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='Signature']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='Signature']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_F0stB3OqEeyTQtb_XaAbrw" sourceNode="_Ei3RsHOqEeyTQtb_XaAbrw" targetNode="_L9u9QHOpEeyTQtb_XaAbrw">
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_F0tUEHOqEeyTQtb_XaAbrw" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='Signature-decryptedQR']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_F0tUEXOqEeyTQtb_XaAbrw" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='Signature-decryptedQR']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_IC_wlnOqEeyTQtb_XaAbrw" name="124" incomingEdges="_LZAqM3OqEeyTQtb_XaAbrw _Ms7JEnOqEeyTQtb_XaAbrw" width="0" height="0" resizeKind="NSEW">
+      <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_IC_wl3OqEeyTQtb_XaAbrw" labelSize="12" showIcon="false" workspacePath="/qr.design/icons/Comparison.png">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='Comparison']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='Comparison']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_LZAqM3OqEeyTQtb_XaAbrw" sourceNode="_ibm4gnOpEeyTQtb_XaAbrw" targetNode="_IC_wlnOqEeyTQtb_XaAbrw">
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_LZBRMHOqEeyTQtb_XaAbrw" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='Algorithm-comparison']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_LZBRMXOqEeyTQtb_XaAbrw" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='Algorithm-comparison']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_Ms7JEnOqEeyTQtb_XaAbrw" sourceNode="_Ei3RsHOqEeyTQtb_XaAbrw" targetNode="_IC_wlnOqEeyTQtb_XaAbrw">
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_Ms7JE3OqEeyTQtb_XaAbrw" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='Signature-comparison']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_Ms7JFHOqEeyTQtb_XaAbrw" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='Signature-comparison']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_XV0gcHxoEeyKcJS45NchOg" name="Nazeeha(363530)" incomingEdges="_XWDJ8HxoEeyKcJS45NchOg" width="4" height="4" resizeKind="NSEW">
+      <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_XV3jwHxoEeyKcJS45NchOg" labelSize="12" showIcon="false" workspacePath="/qr.design/icons/DateData.png">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='DateData']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='DateData']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_XV71MnxoEeyKcJS45NchOg" name="s1254" width="0" height="0" resizeKind="NSEW">
+      <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_XV8cQHxoEeyKcJS45NchOg" labelSize="12" showIcon="false" workspacePath="/qr.design/icons/Certificate.png">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='Certificate']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='Certificate']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_XWDJ8HxoEeyKcJS45NchOg" sourceNode="_Ei3RsHOqEeyTQtb_XaAbrw" targetNode="_XV0gcHxoEeyKcJS45NchOg">
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_XWDxAHxoEeyKcJS45NchOg" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='Signature-hashcode']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_XWDxAXxoEeyKcJS45NchOg" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='Signature-hashcode']"/>
+    </ownedDiagramElements>
+    <description xmi:type="description_1:DiagramDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']"/>
+    <filterVariableHistory xmi:type="diagram:FilterVariableHistory" uid="_EfbEUHN3EeyTQtb_XaAbrw"/>
+    <activatedLayers xmi:type="description_1:Layer" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer"/>
+    <target xmi:type="qR1:QR" href="My.qr1#/"/>
+  </diagram:DSemanticDiagram>
+  <diagram:DSemanticDiagram uid="_5_2PgHxoEeyKcJS45NchOg">
+    <ownedAnnotationEntries xmi:type="description:AnnotationEntry" uid="_6ARGQHxoEeyKcJS45NchOg" source="GMF_DIAGRAMS">
+      <data xmi:type="notation:Diagram" xmi:id="_6ARGQXxoEeyKcJS45NchOg" type="Sirius" element="_5_2PgHxoEeyKcJS45NchOg" measurementUnit="Pixel">
+        <children xmi:type="notation:Node" xmi:id="_6Al2YHxoEeyKcJS45NchOg" type="2001" element="_6AUwoHxoEeyKcJS45NchOg">
+          <children xmi:type="notation:Node" xmi:id="_6AnEgHxoEeyKcJS45NchOg" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_6AnEgXxoEeyKcJS45NchOg" x="41" y="9"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_6Aw1gHxoEeyKcJS45NchOg" type="3005" element="_6AVXsHxoEeyKcJS45NchOg">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_6Aw1gXxoEeyKcJS45NchOg" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6Aw1gnxoEeyKcJS45NchOg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_6Al2YXxoEeyKcJS45NchOg" fontName="Segoe UI" fontHeight="12"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6Al2YnxoEeyKcJS45NchOg" x="105" y="206" width="40" height="40"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_6AoSoHxoEeyKcJS45NchOg" type="2001" element="_6AV-wXxoEeyKcJS45NchOg">
+          <children xmi:type="notation:Node" xmi:id="_6Ao5sHxoEeyKcJS45NchOg" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_6Ao5sXxoEeyKcJS45NchOg" x="-4" y="-22"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_6AxckHxoEeyKcJS45NchOg" type="3005" element="_6AWl0HxoEeyKcJS45NchOg">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_6AxckXxoEeyKcJS45NchOg" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6AxcknxoEeyKcJS45NchOg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_6AoSoXxoEeyKcJS45NchOg" fontName="Segoe UI" fontHeight="12"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6AoSonxoEeyKcJS45NchOg" x="232" y="310" width="40" height="40"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_6ApgwHxoEeyKcJS45NchOg" type="2001" element="_6AXM4HxoEeyKcJS45NchOg">
+          <children xmi:type="notation:Node" xmi:id="_6AqH0HxoEeyKcJS45NchOg" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_6AqH0XxoEeyKcJS45NchOg" x="41" y="9"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_6Axck3xoEeyKcJS45NchOg" type="3005" element="_6AXM4XxoEeyKcJS45NchOg">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_6AxclHxoEeyKcJS45NchOg" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6AxclXxoEeyKcJS45NchOg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_6ApgwXxoEeyKcJS45NchOg" fontName="Segoe UI" fontHeight="12"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6ApgwnxoEeyKcJS45NchOg" x="175" y="65" width="40" height="40"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_6Aqu4HxoEeyKcJS45NchOg" type="2001" element="_6AYbAHxoEeyKcJS45NchOg">
+          <children xmi:type="notation:Node" xmi:id="_6Aqu43xoEeyKcJS45NchOg" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_6Aqu5HxoEeyKcJS45NchOg" x="-7" y="-22"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_6AyDoHxoEeyKcJS45NchOg" type="3005" element="_6AbeUHxoEeyKcJS45NchOg">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_6AyDoXxoEeyKcJS45NchOg" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6AyDonxoEeyKcJS45NchOg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_6Aqu4XxoEeyKcJS45NchOg" fontName="Segoe UI" fontHeight="12"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6Aqu4nxoEeyKcJS45NchOg" x="175" y="145" width="40" height="40"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_6ArV8HxoEeyKcJS45NchOg" type="2001" element="_6AcFYXxoEeyKcJS45NchOg">
+          <children xmi:type="notation:Node" xmi:id="_6Ar9AHxoEeyKcJS45NchOg" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_6Ar9AXxoEeyKcJS45NchOg" x="-21" y="48"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_6AyqsHxoEeyKcJS45NchOg" type="3005" element="_6AcscHxoEeyKcJS45NchOg">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_6AyqsXxoEeyKcJS45NchOg" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6AyqsnxoEeyKcJS45NchOg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_6ArV8XxoEeyKcJS45NchOg" fontName="Segoe UI" fontHeight="12"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6ArV8nxoEeyKcJS45NchOg" x="25" y="80" width="59" height="57"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_6AskEHxoEeyKcJS45NchOg" type="2001" element="_6AdTgHxoEeyKcJS45NchOg">
+          <children xmi:type="notation:Node" xmi:id="_6AtLIHxoEeyKcJS45NchOg" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_6AtLIXxoEeyKcJS45NchOg" x="-13" y="37"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_6Ayqs3xoEeyKcJS45NchOg" type="3005" element="_6AdTgXxoEeyKcJS45NchOg">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_6AyqtHxoEeyKcJS45NchOg" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6AyqtXxoEeyKcJS45NchOg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_6AskEXxoEeyKcJS45NchOg" fontName="Segoe UI" fontHeight="12"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6AskEnxoEeyKcJS45NchOg" x="310" y="405" width="61" height="46"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_6AuZQHxoEeyKcJS45NchOg" type="2001" element="_6Ad6kHxoEeyKcJS45NchOg">
+          <children xmi:type="notation:Node" xmi:id="_6AvnYHxoEeyKcJS45NchOg" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_6AvnYXxoEeyKcJS45NchOg" y="-22"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_6AzRwHxoEeyKcJS45NchOg" type="3005" element="_6Ad6kXxoEeyKcJS45NchOg">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_6AzRwXxoEeyKcJS45NchOg" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6AzRwnxoEeyKcJS45NchOg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_6AuZQXxoEeyKcJS45NchOg" fontName="Segoe UI" fontHeight="12"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6AuZQnxoEeyKcJS45NchOg" x="405" y="265" width="40" height="40"/>
+        </children>
+        <styles xmi:type="notation:DiagramStyle" xmi:id="_6ARGQnxoEeyKcJS45NchOg"/>
+        <edges xmi:type="notation:Edge" xmi:id="_6Az40HxoEeyKcJS45NchOg" type="4001" element="_6AehoHxoEeyKcJS45NchOg" source="_6AoSoHxoEeyKcJS45NchOg" target="_6Al2YHxoEeyKcJS45NchOg">
+          <children xmi:type="notation:Node" xmi:id="_6A0f4HxoEeyKcJS45NchOg" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6A0f4XxoEeyKcJS45NchOg" x="2" y="-9"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_6A0f4nxoEeyKcJS45NchOg" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6A0f43xoEeyKcJS45NchOg" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_6A0f5HxoEeyKcJS45NchOg" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6A0f5XxoEeyKcJS45NchOg" x="-2" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_6Az40XxoEeyKcJS45NchOg"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_6Az40nxoEeyKcJS45NchOg" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_6Az403xoEeyKcJS45NchOg" points="[0, 0, 127, 64]$[-127, -64, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_6A1G8HxoEeyKcJS45NchOg" id="(0.5,0.0)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_6A1G8XxoEeyKcJS45NchOg" id="(0.5,1.0)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_6A1G8nxoEeyKcJS45NchOg" type="4001" element="_6AfvwHxoEeyKcJS45NchOg" source="_6Aqu4HxoEeyKcJS45NchOg" target="_6ApgwHxoEeyKcJS45NchOg">
+          <children xmi:type="notation:Node" xmi:id="_6A1G9nxoEeyKcJS45NchOg" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6A1uAHxoEeyKcJS45NchOg" x="-3" y="-3"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_6A1uAXxoEeyKcJS45NchOg" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6A1uAnxoEeyKcJS45NchOg" x="5" y="2"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_6A1uA3xoEeyKcJS45NchOg" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6A1uBHxoEeyKcJS45NchOg" x="4" y="2"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_6A1G83xoEeyKcJS45NchOg"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_6A1G9HxoEeyKcJS45NchOg" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_6A1G9XxoEeyKcJS45NchOg" points="[0, 0, 0, 40]$[0, -40, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_6A1uBXxoEeyKcJS45NchOg" id="(0.5,0.0)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_6A1uBnxoEeyKcJS45NchOg" id="(0.5,1.0)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_6A2VEHxoEeyKcJS45NchOg" type="4001" element="_6AgW0HxoEeyKcJS45NchOg" source="_6AoSoHxoEeyKcJS45NchOg" target="_6Aqu4HxoEeyKcJS45NchOg">
+          <children xmi:type="notation:Node" xmi:id="_6A2VFHxoEeyKcJS45NchOg" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6A2VFXxoEeyKcJS45NchOg" x="4" y="-4"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_6A2VFnxoEeyKcJS45NchOg" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6A2VF3xoEeyKcJS45NchOg" x="1"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_6A2VGHxoEeyKcJS45NchOg" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6A2VGXxoEeyKcJS45NchOg" x="-2" y="2"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_6A2VEXxoEeyKcJS45NchOg"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_6A2VEnxoEeyKcJS45NchOg" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_6A2VE3xoEeyKcJS45NchOg" points="[0, 0, 57, 125]$[-57, -125, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_6A28IHxoEeyKcJS45NchOg" id="(0.5,0.0)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_6A28IXxoEeyKcJS45NchOg" id="(0.5,1.0)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_6A28InxoEeyKcJS45NchOg" type="4001" element="_6Ahk8HxoEeyKcJS45NchOg" source="_6AuZQHxoEeyKcJS45NchOg" target="_6Aqu4HxoEeyKcJS45NchOg">
+          <children xmi:type="notation:Node" xmi:id="_6A28JnxoEeyKcJS45NchOg" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6A28J3xoEeyKcJS45NchOg" x="10" y="-6"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_6A3jMHxoEeyKcJS45NchOg" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6A3jMXxoEeyKcJS45NchOg" x="4" y="9"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_6A3jMnxoEeyKcJS45NchOg" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6A3jM3xoEeyKcJS45NchOg" x="6" y="6"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_6A28I3xoEeyKcJS45NchOg"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_6A28JHxoEeyKcJS45NchOg" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_6A28JXxoEeyKcJS45NchOg" points="[0, 0, 230, 80]$[-230, -80, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_6A3jNHxoEeyKcJS45NchOg" id="(0.5,0.0)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_6A3jNXxoEeyKcJS45NchOg" id="(0.5,1.0)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_6A3jNnxoEeyKcJS45NchOg" type="4001" element="_6AiMAnxoEeyKcJS45NchOg" source="_6AuZQHxoEeyKcJS45NchOg" target="_6AskEHxoEeyKcJS45NchOg">
+          <children xmi:type="notation:Node" xmi:id="_6A4KQHxoEeyKcJS45NchOg" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6A4KQXxoEeyKcJS45NchOg" x="5" y="1"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_6A4xUHxoEeyKcJS45NchOg" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6A5YYHxoEeyKcJS45NchOg" x="11"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_6A5YYXxoEeyKcJS45NchOg" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6A5YYnxoEeyKcJS45NchOg" x="12" y="-6"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_6A3jN3xoEeyKcJS45NchOg"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_6A3jOHxoEeyKcJS45NchOg" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_6A3jOXxoEeyKcJS45NchOg" points="[-18, 40, 37, -100]$[-50, 115, 5, -25]$[-68, 142, -13, 2]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_6A5_cHxoEeyKcJS45NchOg" id="(0.5,0.0)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_6A5_cXxoEeyKcJS45NchOg" id="(0.9836065573770492,0.0)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_6A5_cnxoEeyKcJS45NchOg" type="4001" element="_6AizEnxoEeyKcJS45NchOg" source="_6AoSoHxoEeyKcJS45NchOg" target="_6AskEHxoEeyKcJS45NchOg">
+          <children xmi:type="notation:Node" xmi:id="_6A6mgHxoEeyKcJS45NchOg" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6A6mgXxoEeyKcJS45NchOg" x="-2" y="6"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_6A6mgnxoEeyKcJS45NchOg" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6A6mg3xoEeyKcJS45NchOg" x="1" y="-5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_6A6mhHxoEeyKcJS45NchOg" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6A6mhXxoEeyKcJS45NchOg" x="2" y="-3"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_6A5_c3xoEeyKcJS45NchOg"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_6A5_dHxoEeyKcJS45NchOg" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_6A5_dXxoEeyKcJS45NchOg" points="[19, 28, -50, -70]$[66, 101, -3, 3]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_6A7NkHxoEeyKcJS45NchOg" id="(0.5,0.0)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_6A7NkXxoEeyKcJS45NchOg" id="(0.18032786885245902,0.06521739130434782)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_R_JhQHxpEeyKcJS45NchOg" type="4001" element="_R-uqgHxpEeyKcJS45NchOg" source="_6ApgwHxoEeyKcJS45NchOg" target="_6ArV8HxoEeyKcJS45NchOg">
+          <children xmi:type="notation:Node" xmi:id="_R_KIUHxpEeyKcJS45NchOg" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_R_KIUXxpEeyKcJS45NchOg" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_R_KIUnxpEeyKcJS45NchOg" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_R_KIU3xpEeyKcJS45NchOg" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_R_KIVHxpEeyKcJS45NchOg" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_R_KIVXxpEeyKcJS45NchOg" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_R_JhQXxpEeyKcJS45NchOg"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_R_JhQnxpEeyKcJS45NchOg" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_R_JhQ3xpEeyKcJS45NchOg" points="[0, 0, 91, -21]$[-91, 21, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_R_KvYHxpEeyKcJS45NchOg" id="(0.0,0.225)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_R_KvYXxpEeyKcJS45NchOg" id="(1.0,0.2542372881355932)"/>
+        </edges>
+      </data>
+    </ownedAnnotationEntries>
+    <ownedAnnotationEntries xmi:type="description:AnnotationEntry" uid="_6AkBMHxoEeyKcJS45NchOg" source="DANNOTATION_CUSTOMIZATION_KEY">
+      <data xmi:type="diagram:ComputedStyleDescriptionRegistry" uid="_6AkBMXxoEeyKcJS45NchOg"/>
+    </ownedAnnotationEntries>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_6AUwoHxoEeyKcJS45NchOg" name="Nazeeha(363530)" incomingEdges="_6AehoHxoEeyKcJS45NchOg" width="4" height="4" resizeKind="NSEW">
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_6AVXsHxoEeyKcJS45NchOg" labelSize="12" showIcon="false" workspacePath="/qr.design/icons/DateData.png">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='DateData']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='DateData']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_6AV-wXxoEeyKcJS45NchOg" name="*124/9" outgoingEdges="_6AehoHxoEeyKcJS45NchOg _6AgW0HxoEeyKcJS45NchOg _6AizEnxoEeyKcJS45NchOg" width="4" height="4" resizeKind="NSEW">
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_6AWl0HxoEeyKcJS45NchOg" labelSize="12" showIcon="false" workspacePath="/qr.design/icons/Signature.png">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='Signature']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='Signature']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_6AXM4HxoEeyKcJS45NchOg" name="10001011" outgoingEdges="_R-uqgHxpEeyKcJS45NchOg" incomingEdges="_6AfvwHxoEeyKcJS45NchOg" width="4" height="4" resizeKind="NSEW">
+      <target xmi:type="qR1:EncryptedQR" href="My.qr1#//@encryptedqr.0"/>
+      <semanticElements xmi:type="qR1:EncryptedQR" href="My.qr1#//@encryptedqr.0"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_6AXM4XxoEeyKcJS45NchOg" labelSize="12" showIcon="false" workspacePath="/qr.design/icons/EncryptedQR.png">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='EncryptedQR']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='EncryptedQR']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_6AYbAHxoEeyKcJS45NchOg" name="MDCAS" outgoingEdges="_6AfvwHxoEeyKcJS45NchOg" incomingEdges="_6AgW0HxoEeyKcJS45NchOg _6Ahk8HxoEeyKcJS45NchOg" width="4" height="4" resizeKind="NSEW">
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_6AbeUHxoEeyKcJS45NchOg" labelSize="12" showIcon="false" workspacePath="/qr.design/icons/DecryptedQR.png">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='DecryptedQR']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='DecryptedQR']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_6AcFYXxoEeyKcJS45NchOg" name="s1254" incomingEdges="_R-uqgHxpEeyKcJS45NchOg" width="0" height="0" resizeKind="NSEW">
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_6AcscHxoEeyKcJS45NchOg" labelSize="12" showIcon="false" workspacePath="/qr.design/icons/Certificate.png">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='Certificate']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='Certificate']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_6AdTgHxoEeyKcJS45NchOg" name="124" incomingEdges="_6AiMAnxoEeyKcJS45NchOg _6AizEnxoEeyKcJS45NchOg" width="0" height="0" resizeKind="NSEW">
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_6AdTgXxoEeyKcJS45NchOg" labelSize="12" showIcon="false" workspacePath="/qr.design/icons/Comparison.png">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='Comparison']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='Comparison']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_6Ad6kHxoEeyKcJS45NchOg" name="MD5" outgoingEdges="_6Ahk8HxoEeyKcJS45NchOg _6AiMAnxoEeyKcJS45NchOg" width="4" height="4" resizeKind="NSEW">
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_6Ad6kXxoEeyKcJS45NchOg" labelSize="12" showIcon="false" workspacePath="/qr.design/icons/Algorithm.png">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='Algorithm']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='Algorithm']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_6AehoHxoEeyKcJS45NchOg" sourceNode="_6AV-wXxoEeyKcJS45NchOg" targetNode="_6AUwoHxoEeyKcJS45NchOg">
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_6AehoXxoEeyKcJS45NchOg" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='Signature-hashcode']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_6AehonxoEeyKcJS45NchOg" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='Signature-hashcode']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_6AfvwHxoEeyKcJS45NchOg" sourceNode="_6AYbAHxoEeyKcJS45NchOg" targetNode="_6AXM4HxoEeyKcJS45NchOg">
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_6AfvwXxoEeyKcJS45NchOg" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='DecryptedQR-encryptedqr']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_6AfvwnxoEeyKcJS45NchOg" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='DecryptedQR-encryptedqr']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_6AgW0HxoEeyKcJS45NchOg" sourceNode="_6AV-wXxoEeyKcJS45NchOg" targetNode="_6AYbAHxoEeyKcJS45NchOg">
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_6Ag94HxoEeyKcJS45NchOg" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='Signature-decryptedQR']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_6Ag94XxoEeyKcJS45NchOg" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='Signature-decryptedQR']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_6Ahk8HxoEeyKcJS45NchOg" sourceNode="_6Ad6kHxoEeyKcJS45NchOg" targetNode="_6AYbAHxoEeyKcJS45NchOg">
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_6Ahk8XxoEeyKcJS45NchOg" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='Algorithm-decryptedQR']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_6Ahk8nxoEeyKcJS45NchOg" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='Algorithm-decryptedQR']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_6AiMAnxoEeyKcJS45NchOg" sourceNode="_6Ad6kHxoEeyKcJS45NchOg" targetNode="_6AdTgHxoEeyKcJS45NchOg">
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_6AiMA3xoEeyKcJS45NchOg" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='Algorithm-comparison']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_6AiMBHxoEeyKcJS45NchOg" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='Algorithm-comparison']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_6AizEnxoEeyKcJS45NchOg" sourceNode="_6AV-wXxoEeyKcJS45NchOg" targetNode="_6AdTgHxoEeyKcJS45NchOg">
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_6AjaIHxoEeyKcJS45NchOg" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='Signature-comparison']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_6AjaIXxoEeyKcJS45NchOg" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='Signature-comparison']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_R-uqgHxpEeyKcJS45NchOg" sourceNode="_6AXM4HxoEeyKcJS45NchOg" targetNode="_6AcFYXxoEeyKcJS45NchOg">
+      <target xmi:type="qR1:EncryptedQR" href="My.qr1#//@encryptedqr.0"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_R-vRkHxpEeyKcJS45NchOg" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='EncryptedQR-certificate']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_R-vRkXxpEeyKcJS45NchOg" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='EncryptedQR-certificate']"/>
+    </ownedDiagramElements>
+    <description xmi:type="description_1:DiagramDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']"/>
+    <filterVariableHistory xmi:type="diagram:FilterVariableHistory" uid="_5_22kHxoEeyKcJS45NchOg"/>
+    <activatedLayers xmi:type="description_1:Layer" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer"/>
+    <target xmi:type="qR1:QR" href="My.qr1#/"/>
+  </diagram:DSemanticDiagram>
+  <diagram:DSemanticDiagram uid="_2ed-AHxpEeyKcJS45NchOg">
+    <ownedAnnotationEntries xmi:type="description:AnnotationEntry" uid="_2e7RAHxpEeyKcJS45NchOg" source="GMF_DIAGRAMS">
+      <data xmi:type="notation:Diagram" xmi:id="_2e7RAXxpEeyKcJS45NchOg" type="Sirius" element="_2ed-AHxpEeyKcJS45NchOg" measurementUnit="Pixel">
+        <children xmi:type="notation:Node" xmi:id="_2fU5oHxpEeyKcJS45NchOg" type="2001" element="_2fAJgXxpEeyKcJS45NchOg">
+          <children xmi:type="notation:Node" xmi:id="_2fU5o3xpEeyKcJS45NchOg" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_2fU5pHxpEeyKcJS45NchOg" x="-70" y="-22"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_2fZyIHxpEeyKcJS45NchOg" type="3005" element="_2fAJgnxpEeyKcJS45NchOg">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_2fZyIXxpEeyKcJS45NchOg" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_2fZyInxpEeyKcJS45NchOg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_2fU5oXxpEeyKcJS45NchOg" fontName="Segoe UI" fontHeight="12"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_2fU5onxpEeyKcJS45NchOg" x="205" y="60" width="40" height="40"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_V6V6IH9LEeyzFvg6Na8a2g" type="2001" element="_V6PMcH9LEeyzFvg6Na8a2g">
+          <children xmi:type="notation:Node" xmi:id="_V6WhMH9LEeyzFvg6Na8a2g" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_V6WhMX9LEeyzFvg6Na8a2g" y="-22"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_V6XIQH9LEeyzFvg6Na8a2g" type="3005" element="_V6PMcX9LEeyzFvg6Na8a2g">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_V6XIQX9LEeyzFvg6Na8a2g" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_V6XIQn9LEeyzFvg6Na8a2g"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_V6V6IX9LEeyzFvg6Na8a2g" fontName="Segoe UI" fontHeight="12"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_V6V6In9LEeyzFvg6Na8a2g" x="55" y="255" width="40" height="40"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_5VaroH9LEeyzFvg6Na8a2g" type="2001" element="_5VSIwH9LEeyzFvg6Na8a2g">
+          <children xmi:type="notation:Node" xmi:id="_5Vcg0H9LEeyzFvg6Na8a2g" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_5Vcg0X9LEeyzFvg6Na8a2g" x="41" y="9"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_5VdH4H9LEeyzFvg6Na8a2g" type="3005" element="_5VSv0H9LEeyzFvg6Na8a2g">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_5VdH4X9LEeyzFvg6Na8a2g" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5VdH4n9LEeyzFvg6Na8a2g"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_5VaroX9LEeyzFvg6Na8a2g" fontName="Segoe UI" fontHeight="12"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5Varon9LEeyzFvg6Na8a2g" x="468" y="265" width="40" height="40"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_R9OH0H9MEeyzFvg6Na8a2g" type="2001" element="_R9IBMH9MEeyzFvg6Na8a2g">
+          <children xmi:type="notation:Node" xmi:id="_R9Ou4H9MEeyzFvg6Na8a2g" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_R9Ou4X9MEeyzFvg6Na8a2g" x="-67" y="41"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_R9PV8H9MEeyzFvg6Na8a2g" type="3005" element="_R9IBMX9MEeyzFvg6Na8a2g">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_R9PV8X9MEeyzFvg6Na8a2g" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_R9PV8n9MEeyzFvg6Na8a2g"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_R9OH0X9MEeyzFvg6Na8a2g" fontName="Segoe UI" fontHeight="12"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_R9OH0n9MEeyzFvg6Na8a2g" x="255" y="330" width="45" height="40"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_BL1QcH9bEeyzFvg6Na8a2g" type="2001" element="_BLt7sH9bEeyzFvg6Na8a2g">
+          <children xmi:type="notation:Node" xmi:id="_BL13gH9bEeyzFvg6Na8a2g" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_BL13gX9bEeyzFvg6Na8a2g" x="41" y="9"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_BL2ekH9bEeyzFvg6Na8a2g" type="3005" element="_BLt7sX9bEeyzFvg6Na8a2g">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_BL2ekX9bEeyzFvg6Na8a2g" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BL2ekn9bEeyzFvg6Na8a2g"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_BL1QcX9bEeyzFvg6Na8a2g" fontName="Segoe UI" fontHeight="12"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BL1Qcn9bEeyzFvg6Na8a2g" x="485" y="110" width="40" height="40"/>
+        </children>
+        <styles xmi:type="notation:DiagramStyle" xmi:id="_2e7RAnxpEeyKcJS45NchOg"/>
+        <edges xmi:type="notation:Edge" xmi:id="_G1PI8H9bEeyzFvg6Na8a2g" type="4001" element="_G1IbQH9bEeyzFvg6Na8a2g" source="_2fU5oHxpEeyKcJS45NchOg" target="_BL1QcH9bEeyzFvg6Na8a2g">
+          <children xmi:type="notation:Node" xmi:id="_G1PI9H9bEeyzFvg6Na8a2g" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_G1PI9X9bEeyzFvg6Na8a2g" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_G1PwAH9bEeyzFvg6Na8a2g" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_G1PwAX9bEeyzFvg6Na8a2g" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_G1PwAn9bEeyzFvg6Na8a2g" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_G1PwA39bEeyzFvg6Na8a2g" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_G1PI8X9bEeyzFvg6Na8a2g"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_G1PI8n9bEeyzFvg6Na8a2g" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_G1PI839bEeyzFvg6Na8a2g" points="[0, 0, -240, -54]$[240, 54, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_G1PwBH9bEeyzFvg6Na8a2g" id="(1.0,0.125)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_G1PwBX9bEeyzFvg6Na8a2g" id="(0.0,0.225)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_HoJzoH9bEeyzFvg6Na8a2g" type="4001" element="_Hn58AH9bEeyzFvg6Na8a2g" source="_5VaroH9LEeyzFvg6Na8a2g" target="_BL1QcH9bEeyzFvg6Na8a2g">
+          <children xmi:type="notation:Node" xmi:id="_HoKasH9bEeyzFvg6Na8a2g" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_HoKasX9bEeyzFvg6Na8a2g" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_HoKasn9bEeyzFvg6Na8a2g" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_HoKas39bEeyzFvg6Na8a2g" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_HoKatH9bEeyzFvg6Na8a2g" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_HoKatX9bEeyzFvg6Na8a2g" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_HoJzoX9bEeyzFvg6Na8a2g"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_HoJzon9bEeyzFvg6Na8a2g" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_HoJzo39bEeyzFvg6Na8a2g" points="[0, 0, -20, 115]$[20, -115, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_HoKatn9bEeyzFvg6Na8a2g" id="(0.3,0.0)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_HoKat39bEeyzFvg6Na8a2g" id="(0.375,1.0)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_IsHLAH9bEeyzFvg6Na8a2g" type="4001" element="_Ir69wH9bEeyzFvg6Na8a2g" source="_2fU5oHxpEeyKcJS45NchOg" target="_5VaroH9LEeyzFvg6Na8a2g">
+          <children xmi:type="notation:Node" xmi:id="_IsHLBH9bEeyzFvg6Na8a2g" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_IsHLBX9bEeyzFvg6Na8a2g" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_IsHyEH9bEeyzFvg6Na8a2g" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_IsHyEX9bEeyzFvg6Na8a2g" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_IsHyEn9bEeyzFvg6Na8a2g" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_IsHyE39bEeyzFvg6Na8a2g" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_IsHLAX9bEeyzFvg6Na8a2g"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_IsHLAn9bEeyzFvg6Na8a2g" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_IsHLA39bEeyzFvg6Na8a2g" points="[0, 0, -223, -215]$[223, 215, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_IsIZIH9bEeyzFvg6Na8a2g" id="(1.0,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_IsIZIX9bEeyzFvg6Na8a2g" id="(0.0,0.75)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_KlypcH9bEeyzFvg6Na8a2g" type="4001" element="_Klsi0H9bEeyzFvg6Na8a2g" source="_2fU5oHxpEeyKcJS45NchOg" target="_V6V6IH9LEeyzFvg6Na8a2g">
+          <children xmi:type="notation:Node" xmi:id="_KlzQgH9bEeyzFvg6Na8a2g" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KlzQgX9bEeyzFvg6Na8a2g" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_KlzQgn9bEeyzFvg6Na8a2g" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KlzQg39bEeyzFvg6Na8a2g" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_KlzQhH9bEeyzFvg6Na8a2g" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KlzQhX9bEeyzFvg6Na8a2g" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_KlypcX9bEeyzFvg6Na8a2g"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_Klypcn9bEeyzFvg6Na8a2g" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_Klypc39bEeyzFvg6Na8a2g" points="[0, 0, 131, -195]$[-131, 195, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_KlzQhn9bEeyzFvg6Na8a2g" id="(0.0,0.0)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_KlzQh39bEeyzFvg6Na8a2g" id="(0.475,0.0)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_MblGYH9bEeyzFvg6Na8a2g" type="4001" element="_MbYSEH9bEeyzFvg6Na8a2g" source="_2fU5oHxpEeyKcJS45NchOg" target="_R9OH0H9MEeyzFvg6Na8a2g">
+          <children xmi:type="notation:Node" xmi:id="_MblGZH9bEeyzFvg6Na8a2g" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_MblGZX9bEeyzFvg6Na8a2g" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_MbltcH9bEeyzFvg6Na8a2g" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_MbltcX9bEeyzFvg6Na8a2g" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_Mbltcn9bEeyzFvg6Na8a2g" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Mbltc39bEeyzFvg6Na8a2g" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_MblGYX9bEeyzFvg6Na8a2g"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_MblGYn9bEeyzFvg6Na8a2g" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_MblGY39bEeyzFvg6Na8a2g" points="[0, 0, -52, -230]$[52, 230, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_MbltdH9bEeyzFvg6Na8a2g" id="(0.525,1.0)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_MbltdX9bEeyzFvg6Na8a2g" id="(0.5111111111111111,0.0)"/>
+        </edges>
+      </data>
+    </ownedAnnotationEntries>
+    <ownedAnnotationEntries xmi:type="description:AnnotationEntry" uid="_2fQBIHxpEeyKcJS45NchOg" source="DANNOTATION_CUSTOMIZATION_KEY">
+      <data xmi:type="diagram:ComputedStyleDescriptionRegistry" uid="_2fQBIXxpEeyKcJS45NchOg"/>
+    </ownedAnnotationEntries>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_2fAJgXxpEeyKcJS45NchOg" name="encrypted QR (10001011)" outgoingEdges="_G1IbQH9bEeyzFvg6Na8a2g _Ir69wH9bEeyzFvg6Na8a2g _Klsi0H9bEeyzFvg6Na8a2g _MbYSEH9bEeyzFvg6Na8a2g" width="4" height="4" resizeKind="NSEW">
+      <target xmi:type="qR1:EncryptedQR" href="My.qr1#//@encryptedqr.0"/>
+      <semanticElements xmi:type="qR1:EncryptedQR" href="My.qr1#//@encryptedqr.0"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_2fAJgnxpEeyKcJS45NchOg" labelSize="12" showIcon="false" workspacePath="/qr.design/icons/EncryptedQR.png">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='EncryptedQR']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='EncryptedQR']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_V6PMcH9LEeyzFvg6Na8a2g" name="MD5 " incomingEdges="_Klsi0H9bEeyzFvg6Na8a2g" width="4" height="4" resizeKind="NSEW">
+      <target xmi:type="qR1:Algorithm" href="My.qr1#//@algorithm.0"/>
+      <semanticElements xmi:type="qR1:Algorithm" href="My.qr1#//@algorithm.0"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_V6PMcX9LEeyzFvg6Na8a2g" labelSize="12" showIcon="false" workspacePath="/qr.design/icons/Algorithm.png">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='Algorithm']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='Algorithm']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_5VSIwH9LEeyzFvg6Na8a2g" name="encrypted hash code (*124/9)" outgoingEdges="_Hn58AH9bEeyzFvg6Na8a2g" incomingEdges="_Ir69wH9bEeyzFvg6Na8a2g" width="4" height="4" resizeKind="NSEW">
+      <target xmi:type="qR1:Signature" href="My.qr1#//@signature.0"/>
+      <semanticElements xmi:type="qR1:Signature" href="My.qr1#//@signature.0"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_5VSv0H9LEeyzFvg6Na8a2g" labelSize="12" showIcon="false" workspacePath="/qr.design/icons/Signature.png">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='Signature']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='Signature']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_R9IBMH9MEeyzFvg6Na8a2g" name="Public Key and Member's ID" incomingEdges="_MbYSEH9bEeyzFvg6Na8a2g" width="0" height="0" resizeKind="NSEW">
+      <target xmi:type="qR1:Certificate" href="My.qr1#//@certificate.0"/>
+      <semanticElements xmi:type="qR1:Certificate" href="My.qr1#//@certificate.0"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_R9IBMX9MEeyzFvg6Na8a2g" labelSize="12" showIcon="false" workspacePath="/qr.design/icons/Certificate.png">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='Certificate']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='Certificate']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_BLt7sH9bEeyzFvg6Na8a2g" name="Website Link" incomingEdges="_G1IbQH9bEeyzFvg6Na8a2g _Hn58AH9bEeyzFvg6Na8a2g" width="4" height="4" resizeKind="NSEW">
+      <target xmi:type="qR1:DateData" href="My.qr1#//@hashcode.0"/>
+      <semanticElements xmi:type="qR1:DateData" href="My.qr1#//@hashcode.0"/>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_BLt7sX9bEeyzFvg6Na8a2g" labelSize="12" showIcon="false" workspacePath="/qr.design/icons/DateData.png">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='DateData']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='DateData']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_G1IbQH9bEeyzFvg6Na8a2g" sourceNode="_2fAJgXxpEeyKcJS45NchOg" targetNode="_BLt7sH9bEeyzFvg6Na8a2g">
+      <target xmi:type="qR1:EncryptedQR" href="My.qr1#//@encryptedqr.0"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_G1IbQX9bEeyzFvg6Na8a2g" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='EncryptedQR-datedata']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_G1IbQn9bEeyzFvg6Na8a2g" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='EncryptedQR-datedata']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_Hn58AH9bEeyzFvg6Na8a2g" sourceNode="_5VSIwH9LEeyzFvg6Na8a2g" targetNode="_BLt7sH9bEeyzFvg6Na8a2g">
+      <target xmi:type="qR1:Signature" href="My.qr1#//@signature.0"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_Hn58AX9bEeyzFvg6Na8a2g" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='Signature-hashcode']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_Hn58An9bEeyzFvg6Na8a2g" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='Signature-hashcode']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_Ir69wH9bEeyzFvg6Na8a2g" sourceNode="_2fAJgXxpEeyKcJS45NchOg" targetNode="_5VSIwH9LEeyzFvg6Na8a2g">
+      <target xmi:type="qR1:EncryptedQR" href="My.qr1#//@encryptedqr.0"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_Ir7k0H9bEeyzFvg6Na8a2g" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='EncryptedQR-signature']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_Ir7k0X9bEeyzFvg6Na8a2g" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='EncryptedQR-signature']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_Klsi0H9bEeyzFvg6Na8a2g" sourceNode="_2fAJgXxpEeyKcJS45NchOg" targetNode="_V6PMcH9LEeyzFvg6Na8a2g">
+      <target xmi:type="qR1:EncryptedQR" href="My.qr1#//@encryptedqr.0"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_Klsi0X9bEeyzFvg6Na8a2g" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='EncryptedQR-algorithm']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_Klsi0n9bEeyzFvg6Na8a2g" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='EncryptedQR-algorithm']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_MbYSEH9bEeyzFvg6Na8a2g" sourceNode="_2fAJgXxpEeyKcJS45NchOg" targetNode="_R9IBMH9MEeyzFvg6Na8a2g">
+      <target xmi:type="qR1:EncryptedQR" href="My.qr1#//@encryptedqr.0"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_MbY5IH9bEeyzFvg6Na8a2g" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='EncryptedQR-certificate']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_MbY5IX9bEeyzFvg6Na8a2g" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='EncryptedQR-certificate']"/>
+    </ownedDiagramElements>
+    <description xmi:type="description_1:DiagramDescription" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']"/>
+    <filterVariableHistory xmi:type="diagram:FilterVariableHistory" uid="_2epkMHxpEeyKcJS45NchOg"/>
+    <activatedLayers xmi:type="description_1:Layer" href="platform:/resource/qr.design/description/qr.odesign#//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer"/>
+    <target xmi:type="qR1:QR" href="My.qr1#/"/>
+  </diagram:DSemanticDiagram>
+</xmi:XMI>
