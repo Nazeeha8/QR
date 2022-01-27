@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<description:Group xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:description="http://www.eclipse.org/sirius/description/1.1.0" xmlns:description_1="http://www.eclipse.org/sirius/diagram/description/1.1.0" xmlns:style="http://www.eclipse.org/sirius/diagram/description/style/1.1.0" xmlns:tool="http://www.eclipse.org/sirius/diagram/description/tool/1.1.0" xmlns:tool_1="http://www.eclipse.org/sirius/description/tool/1.1.0" name="qr" version="12.0.0.2017041100">
+  <ownedViewpoints name="qr" modelFileExtension="">
+    <ownedRepresentations xsi:type="description_1:DiagramDescription" name="QR" domainClass="qR1::QR" enablePopupBars="true">
+      <metamodel href="http://www.example.org/qR1#/"/>
+      <defaultLayer name="Default">
+        <nodeMappings name="DateData" semanticCandidatesExpression="feature:hashcode" domainClass="qR1::DateData">
+          <style xsi:type="style:WorkspaceImageDescription" labelSize="12" showIcon="false" labelExpression="Website Link" sizeComputationExpression="4" resizeKind="NSEW" workspacePath="/qr.design/icons/DateData.png">
+            <borderColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+            <labelColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+          </style>
+        </nodeMappings>
+        <nodeMappings name="Signature" semanticCandidatesExpression="feature:signature" domainClass="qR1::Signature">
+          <style xsi:type="style:WorkspaceImageDescription" labelSize="12" showIcon="false" labelExpression="encrypted hash code (*124/9)" sizeComputationExpression="4" resizeKind="NSEW" workspacePath="/qr.design/icons/Signature.png">
+            <borderColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+            <labelColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+          </style>
+        </nodeMappings>
+        <nodeMappings name="EncryptedQR" semanticCandidatesExpression="feature:encryptedqr" domainClass="qR1::EncryptedQR">
+          <style xsi:type="style:WorkspaceImageDescription" labelSize="12" showIcon="false" labelExpression="encrypted QR (10001011)" sizeComputationExpression="4" resizeKind="NSEW" workspacePath="/qr.design/icons/EncryptedQR.png">
+            <borderColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+            <labelColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+          </style>
+        </nodeMappings>
+        <nodeMappings name="DecryptedQR" semanticCandidatesExpression="feature:decryptedqr" domainClass="qR1::DecryptedQR">
+          <style xsi:type="style:WorkspaceImageDescription" labelSize="12" showIcon="false" labelExpression="Decrypted QR" sizeComputationExpression="4" resizeKind="NSEW" workspacePath="/qr.design/icons/DecryptedQR.png">
+            <borderColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+            <labelColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+          </style>
+        </nodeMappings>
+        <nodeMappings name="Certificate" semanticCandidatesExpression="feature:certificate" domainClass="qR1::Certificate">
+          <style xsi:type="style:WorkspaceImageDescription" labelSize="12" showIcon="false" labelExpression="Public Key and Member's ID" sizeComputationExpression="" resizeKind="NSEW" workspacePath="/qr.design/icons/Certificate.png">
+            <borderColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+            <labelColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+          </style>
+        </nodeMappings>
+        <nodeMappings name="Comparison" semanticCandidatesExpression="feature:comparison" domainClass="qR1::Comparison">
+          <style xsi:type="style:WorkspaceImageDescription" labelSize="12" showIcon="false" labelExpression="Comparing both the algos" sizeComputationExpression="" resizeKind="NSEW" workspacePath="/qr.design/icons/Comparison.png">
+            <borderColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+            <labelColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+          </style>
+        </nodeMappings>
+        <nodeMappings name="Algorithm" semanticCandidatesExpression="feature:algorithm" domainClass="qR1::Algorithm">
+          <style xsi:type="style:WorkspaceImageDescription" labelSize="12" showIcon="false" labelExpression="MD5 " sizeComputationExpression="4" resizeKind="NSEW" workspacePath="/qr.design/icons/Algorithm.png">
+            <borderColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+            <labelColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+          </style>
+        </nodeMappings>
+        <edgeMappings name="Signature-hashcode" sourceMapping="//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='Signature']" targetMapping="//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='DateData']" targetFinderExpression="feature:hashcode">
+          <style sizeComputationExpression="2">
+            <strokeColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='gray']"/>
+            <centerLabelStyleDescription labelSize="12">
+              <labelColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+            </centerLabelStyleDescription>
+          </style>
+        </edgeMappings>
+        <edgeMappings name="DecryptedQR-encryptedqr" sourceMapping="//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='DecryptedQR']" targetMapping="//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='EncryptedQR']" targetFinderExpression="feature:encryptedqr">
+          <style sizeComputationExpression="2">
+            <strokeColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='gray']"/>
+            <centerLabelStyleDescription labelSize="12">
+              <labelColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+            </centerLabelStyleDescription>
+          </style>
+        </edgeMappings>
+        <edgeMappings name="EncryptedQR-datedata" sourceMapping="//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='EncryptedQR']" targetMapping="//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='DateData']" targetFinderExpression="feature:datedata">
+          <style sizeComputationExpression="2">
+            <strokeColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='gray']"/>
+            <centerLabelStyleDescription labelSize="12">
+              <labelColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+            </centerLabelStyleDescription>
+          </style>
+        </edgeMappings>
+        <edgeMappings name="EncryptedQR-signature" sourceMapping="//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='EncryptedQR']" targetMapping="//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='Signature']" targetFinderExpression="feature:signature">
+          <style sizeComputationExpression="2">
+            <strokeColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='gray']"/>
+            <centerLabelStyleDescription labelSize="12">
+              <labelColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+            </centerLabelStyleDescription>
+          </style>
+        </edgeMappings>
+        <edgeMappings name="EncryptedQR-algorithm" sourceMapping="//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='EncryptedQR']" targetMapping="//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='Algorithm']" targetFinderExpression="feature:algorithm">
+          <style sizeComputationExpression="2">
+            <strokeColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='gray']"/>
+            <centerLabelStyleDescription labelSize="12">
+              <labelColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+            </centerLabelStyleDescription>
+          </style>
+        </edgeMappings>
+        <edgeMappings name="EncryptedQR-certificate" sourceMapping="//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='EncryptedQR']" targetMapping="//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='Certificate']" targetFinderExpression="feature:certificate">
+          <style sizeComputationExpression="2">
+            <strokeColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='gray']"/>
+            <centerLabelStyleDescription labelSize="12">
+              <labelColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+            </centerLabelStyleDescription>
+          </style>
+        </edgeMappings>
+        <edgeMappings name="Signature-decryptedQR" sourceMapping="//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='Signature']" targetMapping="//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='DecryptedQR']" targetFinderExpression="feature:decryptedqr">
+          <style sizeComputationExpression="2">
+            <strokeColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='gray']"/>
+            <centerLabelStyleDescription labelSize="12">
+              <labelColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+            </centerLabelStyleDescription>
+          </style>
+        </edgeMappings>
+        <edgeMappings name="Algorithm-decryptedQR" sourceMapping="//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='Algorithm']" targetMapping="//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='DecryptedQR']" targetFinderExpression="feature:decryptedqr">
+          <style sizeComputationExpression="2">
+            <strokeColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='gray']"/>
+            <centerLabelStyleDescription labelSize="12">
+              <labelColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+            </centerLabelStyleDescription>
+          </style>
+        </edgeMappings>
+        <edgeMappings name="Algorithm-comparison" sourceMapping="//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='Algorithm']" targetMapping="//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='Comparison']" targetFinderExpression="feature:comparison">
+          <style sizeComputationExpression="2">
+            <strokeColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='gray']"/>
+            <centerLabelStyleDescription labelSize="12">
+              <labelColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+            </centerLabelStyleDescription>
+          </style>
+        </edgeMappings>
+        <edgeMappings name="Signature-comparison" sourceMapping="//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='Signature']" targetMapping="//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='Comparison']" targetFinderExpression="feature:comparison">
+          <style sizeComputationExpression="2">
+            <strokeColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='gray']"/>
+            <centerLabelStyleDescription labelSize="12">
+              <labelColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+            </centerLabelStyleDescription>
+          </style>
+        </edgeMappings>
+        <toolSections>
+          <ownedTools xsi:type="tool:NodeCreationDescription" name="DateData" forceRefresh="true" nodeMappings="//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='DateData']">
+            <variable name="container"/>
+            <viewVariable name="containerView"/>
+            <initialOperation>
+              <firstModelOperations xsi:type="tool_1:ChangeContext" browseExpression="var:container">
+                <subModelOperations xsi:type="tool_1:CreateInstance" typeName="qR1::DateData" referenceName="hashcode">
+                  <subModelOperations xsi:type="tool_1:SetValue" featureName="originalData"/>
+                </subModelOperations>
+              </firstModelOperations>
+            </initialOperation>
+          </ownedTools>
+          <ownedTools xsi:type="tool:NodeCreationDescription" name="Signature" forceRefresh="true" nodeMappings="//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='Signature']">
+            <variable name="container"/>
+            <viewVariable name="containerView"/>
+            <initialOperation>
+              <firstModelOperations xsi:type="tool_1:ChangeContext" browseExpression="var:container">
+                <subModelOperations xsi:type="tool_1:CreateInstance" typeName="qR1::Signature" referenceName="signature">
+                  <subModelOperations xsi:type="tool_1:SetValue" featureName="privateKey"/>
+                </subModelOperations>
+              </firstModelOperations>
+            </initialOperation>
+          </ownedTools>
+          <ownedTools xsi:type="tool:NodeCreationDescription" name="Algorithm" forceRefresh="true" nodeMappings="//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='Algorithm']">
+            <variable name="container"/>
+            <viewVariable name="containerView"/>
+            <initialOperation>
+              <firstModelOperations xsi:type="tool_1:ChangeContext" browseExpression="var:container">
+                <subModelOperations xsi:type="tool_1:CreateInstance" typeName="qR1::Algorithm" referenceName="algorithm">
+                  <subModelOperations xsi:type="tool_1:SetValue" featureName="hashCode"/>
+                </subModelOperations>
+              </firstModelOperations>
+            </initialOperation>
+          </ownedTools>
+          <ownedTools xsi:type="tool:NodeCreationDescription" name="EncryptedQR" forceRefresh="true" nodeMappings="//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='EncryptedQR']">
+            <variable name="container"/>
+            <viewVariable name="containerView"/>
+            <initialOperation>
+              <firstModelOperations xsi:type="tool_1:ChangeContext" browseExpression="var:container">
+                <subModelOperations xsi:type="tool_1:CreateInstance" typeName="qR1::EncryptedQR" referenceName="encryptedqr">
+                  <subModelOperations xsi:type="tool_1:SetValue" featureName="encryptedData"/>
+                </subModelOperations>
+              </firstModelOperations>
+            </initialOperation>
+          </ownedTools>
+          <ownedTools xsi:type="tool:NodeCreationDescription" name="DecryptedQR" forceRefresh="true" nodeMappings="//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='DecryptedQR']">
+            <variable name="container"/>
+            <viewVariable name="containerView"/>
+            <initialOperation>
+              <firstModelOperations xsi:type="tool_1:ChangeContext" browseExpression="var:container">
+                <subModelOperations xsi:type="tool_1:CreateInstance" typeName="qR1::DecryptedQR" referenceName="decryptedqr">
+                  <subModelOperations xsi:type="tool_1:SetValue" featureName="decyptedQR"/>
+                </subModelOperations>
+              </firstModelOperations>
+            </initialOperation>
+          </ownedTools>
+          <ownedTools xsi:type="tool:NodeCreationDescription" name="Comparison" forceRefresh="true" nodeMappings="//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='Comparison']">
+            <variable name="container"/>
+            <viewVariable name="containerView"/>
+            <initialOperation>
+              <firstModelOperations xsi:type="tool_1:ChangeContext" browseExpression="var:container">
+                <subModelOperations xsi:type="tool_1:CreateInstance" typeName="qR1::Comparison" referenceName="comparison">
+                  <subModelOperations xsi:type="tool_1:SetValue" featureName="hashCode"/>
+                </subModelOperations>
+              </firstModelOperations>
+            </initialOperation>
+          </ownedTools>
+          <ownedTools xsi:type="tool:NodeCreationDescription" name="Certificate" forceRefresh="true" nodeMappings="//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@nodeMappings[name='Certificate']">
+            <variable name="container"/>
+            <viewVariable name="containerView"/>
+            <initialOperation>
+              <firstModelOperations xsi:type="tool_1:ChangeContext" browseExpression="var:container">
+                <subModelOperations xsi:type="tool_1:CreateInstance" typeName="qR1::Certificate" referenceName="certificate">
+                  <subModelOperations xsi:type="tool_1:SetValue" featureName="publicKey"/>
+                </subModelOperations>
+              </firstModelOperations>
+            </initialOperation>
+          </ownedTools>
+          <ownedTools xsi:type="tool:EdgeCreationDescription" name="EncryptedQR-DateData" label="EncryptedQR-DateData" edgeMappings="//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='EncryptedQR-datedata']">
+            <sourceVariable name="source"/>
+            <targetVariable name="target"/>
+            <sourceViewVariable name="sourceView"/>
+            <targetViewVariable name="targetView"/>
+            <initialOperation>
+              <firstModelOperations xsi:type="tool_1:ChangeContext" browseExpression="var:source">
+                <subModelOperations xsi:type="tool_1:SetValue" featureName="datedata" valueExpression="var:target"/>
+              </firstModelOperations>
+            </initialOperation>
+          </ownedTools>
+          <ownedTools xsi:type="tool:EdgeCreationDescription" name="Signature-DateData" label="Signature-DateData" edgeMappings="//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='Signature-hashcode']">
+            <sourceVariable name="source"/>
+            <targetVariable name="target"/>
+            <sourceViewVariable name="sourceView"/>
+            <targetViewVariable name="targetView"/>
+            <initialOperation>
+              <firstModelOperations xsi:type="tool_1:ChangeContext" browseExpression="var:source">
+                <subModelOperations xsi:type="tool_1:SetValue" featureName="hashcode" valueExpression="var:target"/>
+              </firstModelOperations>
+            </initialOperation>
+          </ownedTools>
+          <ownedTools xsi:type="tool:EdgeCreationDescription" name="EncryptedQR-Signature" label="EncryptedQR-Signature" edgeMappings="//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='EncryptedQR-signature']">
+            <sourceVariable name="source"/>
+            <targetVariable name="target"/>
+            <sourceViewVariable name="sourceView"/>
+            <targetViewVariable name="targetView"/>
+            <initialOperation>
+              <firstModelOperations xsi:type="tool_1:ChangeContext" browseExpression="var:source">
+                <subModelOperations xsi:type="tool_1:SetValue" featureName="signature" valueExpression="var:target"/>
+              </firstModelOperations>
+            </initialOperation>
+          </ownedTools>
+          <ownedTools xsi:type="tool:EdgeCreationDescription" name="Algorithm-Comparison" label="Algorithm-Comparison" edgeMappings="//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='Algorithm-comparison']">
+            <sourceVariable name="source"/>
+            <targetVariable name="target"/>
+            <sourceViewVariable name="sourceView"/>
+            <targetViewVariable name="targetView"/>
+            <initialOperation>
+              <firstModelOperations xsi:type="tool_1:ChangeContext" browseExpression="var:source">
+                <subModelOperations xsi:type="tool_1:SetValue" featureName="comparison" valueExpression="var:target"/>
+              </firstModelOperations>
+            </initialOperation>
+          </ownedTools>
+          <ownedTools xsi:type="tool:EdgeCreationDescription" name="Algorithm-DecryptedQR" label="Algorithm-DecryptedQR" edgeMappings="//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='Algorithm-decryptedQR']">
+            <sourceVariable name="source"/>
+            <targetVariable name="target"/>
+            <sourceViewVariable name="sourceView"/>
+            <targetViewVariable name="targetView"/>
+            <initialOperation>
+              <firstModelOperations xsi:type="tool_1:ChangeContext" browseExpression="var:source">
+                <subModelOperations xsi:type="tool_1:SetValue" featureName="decryptedqr" valueExpression="var:target"/>
+              </firstModelOperations>
+            </initialOperation>
+          </ownedTools>
+          <ownedTools xsi:type="tool:EdgeCreationDescription" name="EncryptedQR-Algorithm" label="EncryptedQR-Algorithm" edgeMappings="//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='EncryptedQR-algorithm']">
+            <sourceVariable name="source"/>
+            <targetVariable name="target"/>
+            <sourceViewVariable name="sourceView"/>
+            <targetViewVariable name="targetView"/>
+            <initialOperation>
+              <firstModelOperations xsi:type="tool_1:ChangeContext" browseExpression="var:source">
+                <subModelOperations xsi:type="tool_1:SetValue" featureName="algorithm" valueExpression="var:target"/>
+              </firstModelOperations>
+            </initialOperation>
+          </ownedTools>
+          <ownedTools xsi:type="tool:EdgeCreationDescription" name="Signature-Comparison" label="Signature-Comparison" edgeMappings="//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='Signature-comparison']">
+            <sourceVariable name="source"/>
+            <targetVariable name="target"/>
+            <sourceViewVariable name="sourceView"/>
+            <targetViewVariable name="targetView"/>
+            <initialOperation>
+              <firstModelOperations xsi:type="tool_1:ChangeContext" browseExpression="var:source">
+                <subModelOperations xsi:type="tool_1:SetValue" featureName="comparison" valueExpression="var:target"/>
+              </firstModelOperations>
+            </initialOperation>
+          </ownedTools>
+          <ownedTools xsi:type="tool:EdgeCreationDescription" name="Signature-DecryptedQR" label="Signature-DecryptedQR" edgeMappings="//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='Signature-decryptedQR']">
+            <sourceVariable name="source"/>
+            <targetVariable name="target"/>
+            <sourceViewVariable name="sourceView"/>
+            <targetViewVariable name="targetView"/>
+            <initialOperation>
+              <firstModelOperations xsi:type="tool_1:ChangeContext" browseExpression="var:source">
+                <subModelOperations xsi:type="tool_1:SetValue" featureName="decryptedqr" valueExpression="var:target"/>
+              </firstModelOperations>
+            </initialOperation>
+          </ownedTools>
+          <ownedTools xsi:type="tool:EdgeCreationDescription" name="EncryptedQR-Certificate" label="EncryptedQR-Certificate" edgeMappings="//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='EncryptedQR-certificate']">
+            <sourceVariable name="source"/>
+            <targetVariable name="target"/>
+            <sourceViewVariable name="sourceView"/>
+            <targetViewVariable name="targetView"/>
+            <initialOperation>
+              <firstModelOperations xsi:type="tool_1:ChangeContext" browseExpression="var:source">
+                <subModelOperations xsi:type="tool_1:SetValue" featureName="certificate" valueExpression="var:target"/>
+              </firstModelOperations>
+            </initialOperation>
+          </ownedTools>
+          <ownedTools xsi:type="tool:EdgeCreationDescription" name="EncryptedQR-DecryptedQR" label="EncryptedQR-DecryptedQR" edgeMappings="//@ownedViewpoints[name='qr']/@ownedRepresentations[name='QR']/@defaultLayer/@edgeMappings[name='DecryptedQR-encryptedqr']">
+            <sourceVariable name="source"/>
+            <targetVariable name="target"/>
+            <sourceViewVariable name="sourceView"/>
+            <targetViewVariable name="targetView"/>
+            <initialOperation>
+              <firstModelOperations xsi:type="tool_1:ChangeContext" browseExpression="var:source">
+                <subModelOperations xsi:type="tool_1:SetValue" featureName="encryptedqr" valueExpression="var:target"/>
+              </firstModelOperations>
+            </initialOperation>
+          </ownedTools>
+        </toolSections>
+      </defaultLayer>
+    </ownedRepresentations>
+    <ownedJavaExtensions qualifiedClassName="qr.design.Services"/>
+  </ownedViewpoints>
+</description:Group>
